@@ -1,0 +1,7700 @@
+frame with balls for calculating       
+abacus
+quandary
+pry
+provisional
+abacus
+|
+to lessen to subside        
+lassitude
+abate
+inveterate
+jocular
+abate
+|
+giving up control authority        
+abdication
+pitfall
+pertain
+permeate
+abdication
+|
+straying away from what is normal      
+iconoclast
+hospitable
+aberration
+hollow
+aberration
+|
+help/encourage smb (in doing wrong)     
+abet
+massacre
+lull
+lope
+abet
+|
+suspended action          
+fulmination
+forestall
+foppish
+abeyance
+abeyance
+|
+to hate to detest        
+abhor
+finicky
+felicitous
+fatuous
+abhor
+|
+be faithful to endure        
+molt
+abide
+maverick
+mince
+abide
+|
+promise or swear to give up      
+abjure
+belabor
+auspicious
+attenuate
+abjure
+|
+rubbed off worn away by friction      
+evoke
+eulogy
+abraded
+erratic
+abraded
+|
+repeal or annul by authority       
+abrogate
+diatribe
+deprecate
+denigrate
+abrogate
+|
+to go away suddenly (to avoid arrest)     
+discomfit
+abscond
+dereliction
+dexterity
+abscond
+|
+difficult to comprehend obscure        
+abstruse
+conceit
+coddle
+cloture
+abstruse
+|
+border on          
+limn
+abut
+jibe
+legacy
+abut
+|
+bottomless extreme          
+abysmal
+nonchalant
+molt
+mischievous
+abysmal
+|
+effete no longer fertile worn out      
+incite
+incense
+acarpous
+impugned
+acarpous
+|
+welcomed with shouts and approval       
+acclaimed
+putrefaction
+provident
+propitiatory
+acclaimed
+|
+praise approval          
+infuse
+accolade
+incredulous
+indulgent
+accolade
+|
+the growing of separate things into one     
+accretion
+deter
+demur
+deferential
+accretion
+|
+kind of stone inflexible        
+germane
+adamant
+foster
+gainsay
+adamant
+|
+containing warning          
+admonitory
+correlate
+consume
+console
+admonitory
+|
+add beauty decorate         
+avow
+austere
+adorn
+attune
+adorn
+|
+making unpure poorer in quality       
+adulteration
+rave
+quell
+quack
+adulteration
+|
+polite and friendly       
+mettle
+affable
+maladroit
+mellifluous
+affable
+|
+close connection relationship         
+affinity
+placate
+petrify
+personable
+affinity
+|
+make worse irritate         
+fragile
+foil
+florid
+aggravate
+aggravate
+|
+active quick-moving          
+agile
+arboreal
+anguish
+ambidextrous
+agile
+|
+eager/excited         
+exuberance
+extol
+agog
+extempore
+agog
+|
+trouble be ill         
+ail
+discrete
+detumescence
+desiccant
+ail
+|
+eager and cheerful readiness        
+dearth
+alacrity
+covetous
+curmudgeon
+alacrity
+|
+recess/partially enclosed place       
+alcove
+profuse
+presumption
+predominate
+alcove
+|
+duty support loyalty         
+derision
+allegiance
+dearth
+denigrate
+allegiance
+|
+make (pain) easier to bear       
+alleviate
+reconcile
+rancorous
+quotidian
+alleviate
+|
+to debase by mixing with something inferior     
+officious
+obviate
+alloy
+obsequious
+alloy
+|
+reserved indifferent          
+aloof
+precepts
+platitude
+pith
+aloof
+|
+mix combine unite societies        
+jabber
+introspection
+interim
+amalgamate
+amalgamate
+|
+able to use the left hand or the right equally well 
+ambidextrous
+dexterity
+deposition
+demagogue
+ambidextrous
+|
+doubtful uncertain          
+divestiture
+ambiguous
+discourse
+disproof
+ambiguous
+|
+having both of two contrary meanings      
+ambivalent
+fleet
+fetter
+ferocity
+ambivalent
+|
+improve make better         
+euthanasia
+eschew
+ameliorate
+equivocal
+ameliorate
+|
+end (a debt) by setting aside money     
+amortize
+lope
+latent
+labyrinthine
+amortize
+|
+severe suffering        
+malapropism
+anguish
+limn
+luminary
+anguish
+|
+strong dislike          
+animosity
+mendicant
+machination
+luminary
+animosity
+|
+medicine used against a poison or a disease    
+propitious
+antidote
+prevaricate
+profuse
+antidote
+|
+direct opposing          
+antithetical
+flak
+ferocity
+fecund
+antithetical
+|
+brutal racial discrimination         
+flinch
+flamboyant
+apartheid
+finical
+apartheid
+|
+self-confidence           
+aplomb
+gorge
+garble
+froward
+aplomb
+|
+one who abandons long-held religious or political convictions    
+extricable
+apostate
+exigency
+extenuate
+apostate
+|
+deification glorification to godliness        
+apotheosis
+bellicose
+austere
+attune
+apotheosis
+|
+make quiet or calm        
+penurious
+appease
+palate
+paucity
+appease
+|
+grasping understanding fear unhappy feeling about future     
+apprehensive
+prudence
+profundity
+prodigal
+apprehensive
+|
+give notice to inform        
+edible
+ebullience
+apprise
+duplicity
+apprise
+|
+approval           
+approbation
+prodigious
+predominate
+precarious
+approbation
+|
+appropriate to the situation apt       
+propitiatory
+apropos
+prevalent
+profundity
+apropos
+|
+well-suited quick-witted          
+apt
+buoyant
+blandishment
+berate
+apt
+|
+a complex ornate design        
+ostracism
+obtrusive
+oblivious
+arabesque
+arabesque
+|
+of connected with trees        
+arboreal
+equivocal
+ensign
+engrave
+arboreal
+|
+enthusiasm           
+caustic
+cantankerous
+ardor
+cajole
+ardor
+|
+steep difficult ascent laborious        
+arduous
+deter
+demur
+deferential
+arduous
+|
+jargon slang          
+lull
+argot
+laudatory
+lithe
+argot
+|
+in the highest degree        
+arrant
+fecund
+extinguish
+exscind
+arrant
+|
+proud superior manner of behaviour       
+convoluted
+arrogance
+conjoin
+contentious
+arrogance
+|
+speak distinctly connect by joints       
+articulate
+rave
+quell
+quack
+articulate
+|
+go or come up        
+enzyme
+entangle
+ascend
+engrossing
+ascend
+|
+get to know         
+ascertain
+arboreal
+anguish
+ambidextrous
+ascertain
+|
+practicing self-denial austere stark        
+poncho
+pivotal
+pious
+ascetic
+ascetic
+|
+consider to be the origin of or belonging to   
+ascribe
+aplomb
+allegiance
+agile
+ascribe
+|
+surgically clean        
+disparate
+aseptic
+diatribe
+disdain
+aseptic
+|
+roughness harshness ill temper irritability       
+asperity
+coeval
+chicanery
+centurion
+asperity
+|
+slander           
+grovel
+grandiloquent
+aspersion
+gnaw
+aspersion
+|
+with attack violently         
+assail
+levee
+itinerate
+irate
+assail
+|
+diligent hard-working sedulous         
+prodigal
+assiduous
+precarious
+prevalent
+assiduous
+|
+make smth (pain desire) less       
+assuage
+curtail
+covetous
+corroboration
+assuage
+|
+the mark * (e.g.. omitted letters)      
+finesse
+asterisk
+falter
+fervor
+asterisk
+|
+substance that shrinks         
+astringent
+palate
+odious
+obtain
+astringent
+|
+clever quick at seeing to get an advantage    
+involute
+inured
+astute
+intransigence
+astute
+|
+repayment death of Jesus        
+atonement
+propinquity
+pristine
+presumption
+atonement
+|
+make thin. weaken enervate        
+empirical
+attenuate
+ebullience
+elegy
+attenuate
+|
+bring into harmony       
+attune
+caustic
+buoyant
+brazen
+attune
+|
+daring foolishly bold impudent        
+apostate
+audacious
+ail
+amortize
+audacious
+|
+omen sign          
+augury
+counterfeit
+contentious
+constrain
+augury
+|
+majestic venerable          
+ameliorate
+aloof
+august
+alacrity
+august
+|
+favorable successful prosperous         
+auspicious
+exuberance
+exploit
+exoneration
+auspicious
+|
+severely moral and strict simple and plain     
+churl
+austere
+cajole
+centurion
+austere
+|
+helping supporting          
+auxiliary
+reproach
+refine
+recondite
+auxiliary
+|
+affirm assert prove justify        
+gush
+gloat
+germane
+aver
+aver
+|
+strong dislike          
+aversion
+pundit
+propitious
+prolix
+aversion
+|
+eager greedy          
+exorbitant
+excoriation
+avid
+euphoria
+avid
+|
+admit. Declare openly         
+avow
+malign
+loquacious
+limp
+avow
+|
+harmful ominous causing evil        
+cumbersome
+baleful
+cornucopia
+cravat
+baleful
+|
+obstacle purposely to get on the way of    
+balk
+bilge
+barren
+avow
+balk
+|
+causing harm or ruin pernicious destructive      
+cadge
+baneful
+blandishment
+brittle
+baneful
+|
+artificial obstacle built across a river      
+barrage
+falter
+extant
+expiation
+barrage
+|
+not good enough unable to have young ones without value  
+bask
+baleful
+barren
+auxiliary
+barren
+|
+in enjoy warmth and light       
+bask
+fulmination
+forestall
+foppish
+bask
+|
+to bless make happy or ascribe a virtue to   
+flamboyant
+ferret
+feint
+beatify
+beatify
+|
+to adorn especially in a cheap showy manner    
+bedizen
+rant
+quail
+pusillanimous
+bedizen
+|
+beat hard        
+ignominious
+belabor
+highbrow
+husk
+belabor
+|
+belligerent pugnacious warlike         
+bellicose
+paean
+occluded
+obstreperous
+bellicose
+|
+(person nation) waging war        
+chastisement
+caustic
+belligerent
+cantankerous
+belligerent
+|
+person who has given help       
+benefactor
+barren
+attune
+asterisk
+benefactor
+|
+wish or activity in doing good      
+gouge
+benevolence
+fulsome
+glimmer
+benevolence
+|
+kind and gentle mild (climate)       
+benign
+apotheosis
+alloy
+ail
+benign
+|
+arrangement to give smth at death      
+enervate
+bequest
+effluvia
+encapsulate
+bequest
+|
+scold sharply          
+berate
+reactionary
+quibble
+quaff
+berate
+|
+rob or dispossess of smth (material)      
+pliant
+plaque
+bereft
+pitfall
+bereft
+|
+puzzle confuse          
+bewilder
+august
+ascribe
+arrogance
+bewilder
+|
+stubborn narrow-minded person         
+profligate
+bigot
+predilection
+probity
+bigot
+|
+bulge the protuberance of a cask      
+bilge
+desultory
+demagogue
+defer
+bilge
+|
+flattery coaxing          
+conspicuous
+blandishment
+combustion
+condone
+blandishment
+|
+polite manner comforting uninteresting        
+blandness
+renovate
+recondite
+reciprocity
+blandness
+|
+noisy and rough         
+fission
+fidget
+blatant
+fervor
+blatant
+|
+cheerful casual carefree         
+blithe
+dexterity
+deposition
+demagogue
+blithe
+|
+sham counterfeit not genuine        
+eschew
+bogus
+entangle
+equilibrium
+bogus
+|
+loud noisy rough lacking restraint       
+boisterous
+inadvertent
+imperturbable
+impediment
+boisterous
+|
+give greatly needed support        
+defiance
+cumbersome
+crease
+bolster
+bolster
+|
+crude offensive rude         
+boorish
+recalcitrant
+quiescent
+qualm
+boorish
+|
+hasty rush cheeky saucy        
+hubris
+holster
+brash
+highbrow
+brash
+|
+yellow metal (mixing copper and zinc)      
+brass
+insipid
+ineffable
+indistinct
+brass
+|
+made of brass         
+macerate
+brazen
+liberality
+lugubrious
+brazen
+|
+opening broken place breaking        
+breach
+odor
+noxious
+nibble
+breach
+|
+easily broken          
+odium
+brittle
+nibble
+obstreperous
+brittle
+|
+bring up announce begin to talk about     
+broach
+perish
+peccadillo
+pariah
+broach
+|
+to tolerate endure         
+dearth
+cursory
+brook
+crush
+brook
+|
+able to float light-hearted        
+buoyant
+plummet
+pique
+pied
+buoyant
+|
+grow forth send out buds       
+enigma
+embezzle
+elegy
+burgeon
+burgeon
+|
+to polish rub to a shine      
+burnish
+libel
+jibe
+irksome
+burnish
+|
+a scheme or plot a group of plotters    
+placate
+cabal
+perspicacity
+pine
+cabal
+|
+to beg to get by begging      
+cadge
+provident
+profane
+probity
+cadge
+|
+use flattery or deceit to persuade    
+gnaw
+glean
+cajole
+garrulity
+cajole
+|
+metal supports attached to the legs measuring instrument    
+calipers
+resigned
+rejuvenation
+refractory
+calipers
+|
+slander aspersion          
+apotheosis
+calumny
+alacrity
+anguish
+calumny
+|
+frank straight-forward          
+candid
+ameliorate
+affinity
+adamant
+candid
+|
+insincere talk/jargon        
+attune
+cant
+argot
+assiduous
+cant
+|
+bad-tempered/quarrelsome         
+cantankerous
+fetid
+facile
+extralegal
+cantankerous
+|
+discuss thoroughly sort of touting       
+agile
+adorn
+canvass
+acclaimed
+canvass
+|
+to chastise correct by punishing       
+castigate
+repel
+redeem
+recompense
+castigate
+|
+severe punishment          
+fulmination
+castigation
+forage
+fragrant
+castigation
+|
+substance that causes speeding up       
+catalyst
+prosaic
+procrastination
+prevaricate
+catalyst
+|
+biting sarcastic          
+cursory
+caustic
+corroboration
+credulity
+caustic
+|
+expression of blame or disapproval a rebuke     
+censure
+labyrinthine
+inveterate
+introspection
+censure
+|
+leader of a unit of 100 soldiers     
+plummet
+plethora
+centurion
+plaintive
+centurion
+|
+cautious wary          
+chary
+misogynist
+mellifluous
+massacre
+chary
+|
+corrected punished          
+remonstrate
+chastened
+recidivism
+refractory
+chastened
+|
+punishment           
+chastisement
+dormant
+dislodge
+disdain
+chastisement
+|
+a blindly devoted patriot        
+equipoise
+enmity
+engender
+chauvinist
+chauvinist
+|
+legal trickery/false argument       
+chicanery
+covert
+contrite
+consume
+chicanery
+|
+steel tool for shaping materials       
+debacle
+curtail
+chisel
+cryptic
+chisel
+|
+bad-tempered person          
+churl
+pungency
+prosaic
+prone
+churl
+|
+shout complain with a lot of noise     
+procrastination
+clamor
+portent
+preternatural
+clamor
+|
+customers         
+clientele
+reverent
+repine
+render
+clientele
+|
+come to grips/settle conclusively      
+liberality
+clinch
+irrevocable
+latent
+clinch
+|
+to resist separation         
+cling
+mellifluous
+macabre
+lull
+cling
+|
+half-solid lump formed from liquid       
+pariah
+palpability
+clot
+overweening
+clot
+|
+closing device (in Parliament) to end a debate by voting  
+cloture
+punctilious
+propitiatory
+proliferate
+cloture
+|
+change to a thick and solid state   
+impediment
+iconoclast
+hospitable
+coagulation
+coagulation
+|
+coming together and uniting into one substance     
+coalescing
+cower
+conundrum
+contemn
+coalescing
+|
+get smb to do smth by kindness     
+intransigence
+coax
+ineptitude
+insipid
+coax
+|
+passage that completes a piece of music   
+coda
+forbearance
+fledged
+fixate
+coda
+|
+treat with care and tenderness       
+coeval
+coalescing
+coddle
+clinch
+coddle
+|
+compel to force to make obedient      
+coerce
+coddle
+chastisement
+caustic
+coerce
+|
+of the same period coexisting       
+glimmer
+coeval
+frantic
+garrulity
+coeval
+|
+strong convincing          
+cogent
+contemn
+concur
+compunction
+cogent
+|
+think deeply mediate         
+craven
+cogitate
+conundrum
+countervail
+cogitate
+|
+being fully aware of        
+cognizant
+ineptitude
+inculcate
+incite
+cognizant
+|
+bowl-shaped vessel with many holes used to drain off water  
+incredulous
+incise
+colander
+inasmuch
+colander
+|
+secret agreement for a deceitful purpose      
+collusion
+cursory
+covert
+correlate
+collusion
+|
+process of burning         
+impugned
+combustion
+impede
+implicate
+combustion
+|
+keep the memory of        
+commemorate
+coerce
+chauvinist
+censure
+commemorate
+|
+having plenty of space for what is needed  
+concur
+commodious
+coda
+commuter
+commodious
+|
+person who travels regularly        
+commuter
+predilection
+plethora
+plaintive
+commuter
+|
+tending to comply obliging willingness to please     
+partisan
+panegyric
+complaisance
+palate
+complaisance
+|
+feeling of regret for one's action      
+compunction
+bilge
+barren
+avow
+compunction
+|
+hide keep secret         
+invective
+conceal
+inimical
+intersperse
+conceal
+|
+over-high opinion of too much pride      
+conceit
+ossify
+obsequious
+nugatory
+conceit
+|
+reconciling soothing comforting mollifying        
+excoriation
+equipoise
+epithet
+conciliatory
+conciliatory
+|
+agreement or harmony         
+concord
+ambidextrous
+adorn
+acclaimed
+concord
+|
+agree in opinion happen together       
+apostate
+animosity
+concur
+ambiguous
+concur
+|
+increase in density strength make laconic      
+condense
+libel
+jibe
+irksome
+condense
+|
+forgive           
+pusillanimous
+condone
+propitiatory
+pucker
+condone
+|
+make or become stiff and solid      
+congeal
+renovate
+recondite
+reciprocity
+congeal
+|
+to join together         
+jocular
+conjoin
+intransigent
+ire
+conjoin
+|
+a person with good judgement (e.g.. in art)    
+connoisseur
+irrevocable
+intransigent
+insurrection
+connoisseur
+|
+suggestion in addition to        
+laudatory
+lachrymose
+connotation
+jibe
+connotation
+|
+pompous self important         
+consequential
+harbinger
+gouge
+glut
+consequential
+|
+give comfort or sympathy to       
+ingenuous
+indelible
+incredulous
+console
+console
+|
+easily seen remarkable         
+conspicuous
+dolt
+disinter
+discrete
+conspicuous
+|
+surprise and fear dismay        
+mesmerize
+consternation
+macerate
+maul
+consternation
+|
+compel         
+constrain
+detumescence
+denouement
+delineate
+constrain
+|
+make tight or smaller        
+negligent
+mundane
+constrict
+molt
+constrict
+|
+get to the end of       
+consume
+pristine
+precarious
+plunge
+consume
+|
+perfect/make perfect/complete        
+fluster
+consummate
+fidelity
+fledged
+consummate
+|
+to scorn or despise        
+contemn
+duplicity
+divestiture
+disseminate
+contemn
+|
+argumentative pugnacious combative quarrelsome        
+cabal
+contentious
+bilge
+breach
+contentious
+|
+touching neighboring near         
+contiguous
+misanthrope
+maudlin
+malinger
+contiguous
+|
+filled with deep sorrow for wrongdoing      
+pry
+provisional
+contrite
+propitious
+contrite
+|
+insubordinate rebellious          
+contumacious
+ostentation
+obtain
+obfuscate
+contumacious
+|
+a riddle dilemma enigma        
+riddle
+conundrum
+renowned
+resort
+conundrum
+|
+convincing firm belief         
+conviction
+impecunious
+husk
+hone
+conviction
+|
+call together summon         
+pusillanimous
+convoke
+propitiatory
+pucker
+convoke
+|
+complicated coiled twisted         
+convoluted
+concur
+cogent
+coax
+convoluted
+|
+warm and sincere         
+forgery
+forbearance
+cordial
+foment
+cordial
+|
+line (of police acting as a guard)     
+cordon
+middling
+manacle
+malapropism
+cordon
+|
+abundant supply        
+dulcet
+cornucopia
+dissemble
+dote
+cornucopia
+|
+physical of or for the body      
+corporeal
+castigation
+broach
+brash
+corporeal
+|
+have a mutual relation        
+ignominious
+hollow
+hew
+correlate
+correlate
+|
+additional strengthening evidence         
+corroboration
+nibble
+moderation
+mince
+corroboration
+|
+to favor or approve of       
+candid
+cabal
+countenance
+broach
+countenance
+|
+forgery           
+counterfeit
+intransigent
+ingest
+ineptitude
+counterfeit
+|
+counterbalance           
+fallacious
+countervail
+expiation
+extort
+countervail
+|
+disguised           
+covert
+brazen
+berate
+belligerent
+covert
+|
+eagerly desirous          
+indefatigability
+covetous
+impudent
+inclined
+covetous
+|
+crouch shrink back         
+cower
+churl
+cant
+cadge
+cower
+|
+shy/modest (esp of a girl)     
+nascent
+muffler
+coy
+moderation
+coy
+|
+very great (es. stupidity)      
+crass
+endemic
+effrontery
+eddy
+crass
+|
+piece of linen worn as a necktie   
+maudlin
+luminary
+lucubrate
+cravat
+cravat
+|
+cowardly           
+craven
+equivocate
+entangle
+engrossing
+craven
+|
+line made by crushing white line on the ground in cricket 
+insinuate
+crease
+indistinct
+ingenuous
+crease
+|
+too great a readiness to believe things     
+credulity
+garble
+forgery
+forbearance
+credulity
+|
+ready to believe things        
+latent
+labyrinthine
+credulous
+jabber
+credulous
+|
+press lose shape subdue overwhelm       
+crush
+fixate
+ferment
+feckless
+crush
+|
+secret with a hidden meaning       
+enthral
+cryptic
+embezzle
+engrave
+cryptic
+|
+burdensome heavy and awkward to carry      
+cumbersome
+conviction
+connotation
+condense
+cumbersome
+|
+bad-tempered person          
+myriad
+curmudgeon
+mesmerize
+mollify
+curmudgeon
+|
+course of study         
+curriculum
+hermetic
+grovel
+grandiloquent
+curriculum
+|
+quick hurried          
+protracted
+propinquity
+cursory
+profuse
+cursory
+|
+make shorter then was planned       
+curtail
+jocular
+inured
+intransigence
+curtail
+|
+pretty/delicate(food)/difficult to please       
+dolt
+dainty
+disdain
+dissolution
+dainty
+|
+intimidate make fearful         
+daunt
+prune
+proliferate
+profane
+daunt
+|
+person who is slow waste of time     
+disconcert
+dawdler
+derision
+diaphanous
+dawdler
+|
+shortage           
+dearth
+cumbersome
+countenance
+cordon
+dearth
+|
+a breakup overthrow sudden disaster       
+calumny
+burnish
+debacle
+brittle
+debacle
+|
+propriety properness          
+decorum
+nibble
+moderation
+mince
+decorum
+|
+order given by authority        
+restive
+decree
+reiterate
+repudiate
+decree
+|
+disapprove of          
+decry
+gaucherie
+fragrant
+forgery
+decry
+|
+postpone give way (to show respect)      
+precursory
+plead
+placate
+defer
+defer
+|
+showing respect          
+deferential
+incredulous
+impudent
+implicit
+deferential
+|
+open disobedience or resistance        
+dainty
+cumbersome
+defiance
+crease
+defiance
+|
+to portray depict sketch out       
+delineate
+asperity
+apropos
+apotheosis
+delineate
+|
+great flood heavy rush of water      
+debacle
+deluge
+cower
+curriculum
+deluge
+|
+person appealing not to reasons       
+demagogue
+malleable
+luculent
+lithe
+demagogue
+|
+to hesitate raise objections        
+clot
+demur
+cantankerous
+chicanery
+demur
+|
+blacken belittle sully defame        
+denigrate
+prolix
+prevalent
+premature
+denigrate
+|
+an outcome or solution the unraveling of a plot   
+procrastination
+prevaricate
+denouement
+preponderance
+denouement
+|
+use until none remains        
+deplete
+reciprocity
+rabble
+quiescence
+deplete
+|
+dethronement depositing          
+decorum
+crease
+cower
+deposition
+deposition
+|
+make morally bad corrupt        
+deprave
+incorrigibility
+impromptu
+implicate
+deprave
+|
+protest against express disapproval of       
+equivocal
+deprecate
+engrossing
+epistle
+deprecate
+|
+deserting and leaving to fall into ruins     
+dereliction
+plunge
+pitfall
+pinch
+dereliction
+|
+ridicule mockery deriding         
+aversion
+august
+derision
+atonement
+derision
+|
+unoriginal obtained from another source       
+derivative
+assail
+arabesque
+apprehensive
+derivative
+|
+insulting tending to damage        
+dissent
+derogatory
+discern
+disinter
+derogatory
+|
+catch sight of see smth in the distance    
+descry
+garrulous
+fragile
+forge
+descry
+|
+substance used to absorb moisture       
+dissent
+desiccant
+discern
+disinter
+desiccant
+|
+cessation of use disuse        
+desuetude
+bewilder
+baneful
+aversion
+desuetude
+|
+aimless haphazard digressing at random       
+audacious
+astringent
+desultory
+aspersion
+desultory
+|
+discourage hinder          
+deter
+detumescence
+denouement
+delineate
+deter
+|
+slandering verbal attack aspersion        
+mundane
+detraction
+meretricious
+moderation
+detraction
+|
+diminishing or lessening of swelling       
+detumescence
+equilibrium
+enigma
+enervate
+detumescence
+|
+being different in moral standards (from normal)     
+credulity
+deviance
+convoke
+covetous
+deviance
+|
+skill (esp. in handling)        
+dexterity
+avow
+asterisk
+asperity
+dexterity
+|
+transparent gauzy          
+innocuous
+infuse
+diaphanous
+ineluctable
+diaphanous
+|
+bitter and violent attack in words      
+diatribe
+endearing
+effluvia
+edacious
+diatribe
+|
+shyness           
+penury
+diffidence
+palatial
+peccadillo
+diffidence
+|
+speak comprehensively become wider large       
+dilate
+innocuous
+indolence
+indefatigability
+dilate
+|
+refuse to allow or accept as a correct    
+prodigal
+predilection
+portent
+disallow
+disallow
+|
+see with an effort but clearly      
+discern
+miser
+maverick
+manacle
+discern
+|
+confuse embarrass          
+coy
+counterfeit
+discomfit
+cornucopia
+discomfit
+|
+upset the self-possession of        
+disconcert
+cabal
+blithe
+bigot
+disconcert
+|
+refuse to approve of        
+occluded
+discountenance
+neophyte
+obloquy
+discountenance
+|
+speech lecture          
+discourse
+gossamer
+garment
+frugal
+discourse
+|
+refuse to believe         
+peregrination
+discredit
+palliate
+pedantic
+discredit
+|
+careful/prudent         
+discreet
+rejuvenation
+recitals
+recalcitrant
+discreet
+|
+individually distinct        
+euthanasia
+eschew
+discrete
+equivocal
+discrete
+|
+look on with contempt        
+disdain
+malapropism
+loll
+lien
+disdain
+|
+free from encumbrance         
+pundit
+propitious
+prolix
+disencumber
+disencumber
+|
+untidy           
+disheveled
+legacy
+irrevocable
+irascible
+disheveled
+|
+sophisticated artful trying to deceive cunning      
+engrave
+disingenuous
+egress
+encumbrance
+disingenuous
+|
+dig up from the earth       
+disinter
+endemic
+effrontery
+eddy
+disinter
+|
+move force from the place occupied      
+impervious
+impending
+dislodge
+impair
+dislodge
+|
+sad gloomy miserable         
+dismal
+ferment
+extralegal
+extinct
+dismal
+|
+essentially different          
+finical
+disparate
+fatuous
+fetid
+disparate
+|
+proof to the contrary      
+disproof
+predominate
+pliant
+plaque
+disproof
+|
+speak or behave so as to hide smth (in mind)  
+refine
+dissemble
+rapacious
+recompense
+dissemble
+|
+distribute (esp. ideas)         
+disseminate
+miser
+maverick
+manacle
+disseminate
+|
+have a different opinion refuse to assent     
+affinity
+adamant
+dissent
+abysmal
+dissent
+|
+disintegration looseness in morals        
+dissolution
+apt
+ameliorate
+aloof
+dissolution
+|
+distracted violently upset in mind       
+repel
+distraught
+reconcile
+rejuvenation
+distraught
+|
+getting farther apart from a point      
+divergence
+nibble
+moderation
+mince
+divergence
+|
+taking off getting rid of giving up     
+flax
+divestiture
+ferment
+finical
+divestiture
+|
+make known smth secret        
+divulge
+convoluted
+console
+congeal
+divulge
+|
+trivial poorly constructed verse        
+pedantic
+parsimonious
+doggerel
+palpitate
+doggerel
+|
+positive certain arbitrary without room for discussion     
+dogmatic
+benefactor
+aver
+augury
+dogmatic
+|
+stupid fellow          
+impromptu
+dolt
+impassive
+impiety
+dolt
+|
+in a state of inactivity but awaiting development    
+dormant
+libel
+jibe
+irksome
+dormant
+|
+show much fondness center one's attention      
+malevolence
+lope
+limn
+dote
+dote
+|
+slow way of speaking      
+drawl
+ford
+fleet
+flak
+drawl
+|
+jesting         
+exigency
+evince
+droll
+espouse
+droll
+|
+male bee person who isn't self-employed      
+drone
+renovate
+recondite
+reciprocity
+drone
+|
+feeling sleepy half asleep        
+imperious
+drowsiness
+hypocrisy
+impair
+drowsiness
+|
+feeling doubt          
+dubious
+curtail
+covetous
+corroboration
+dubious
+|
+no use person smth that fails      
+heed
+dud
+gossamer
+hack
+dud
+|
+melodious harmonious          
+dulcet
+finesse
+fecund
+fallacious
+dulcet
+|
+cheat make a fool of       
+defer
+dearth
+dupe
+cursory
+dupe
+|
+deliberate deception          
+duplicity
+pundit
+propitious
+prolix
+duplicity
+|
+threats to compel smb        
+chauvinist
+calipers
+burgeon
+duress
+duress
+|
+person or smb much below the usual size    
+dwarf
+craven
+cordial
+contumacious
+dwarf
+|
+a generator something that produces electric current     
+interdict
+dynamo
+ineffable
+inscrutable
+dynamo
+|
+dishes made of baked clay       
+earthenware
+hollow
+hallow
+gullible
+earthenware
+|
+exuberance outburst of feeling        
+hollow
+hew
+ebullience
+heed
+ebullience
+|
+overflowing with enthusiasm showing excitement       
+ebullient
+credulous
+corporeal
+convoke
+ebullient
+|
+representing the whole Christian world       
+recidivism
+ecumenical
+quiescence
+rarefy
+ecumenical
+|
+voracious devouring          
+edacious
+requite
+regicide
+redoubtable
+edacious
+|
+circular or spiral movement (e.g.. of wind)     
+chastened
+eddy
+buoyant
+castigate
+eddy
+|
+fit to be eaten/not poisonous     
+edible
+renovate
+recondite
+reciprocity
+edible
+|
+infertile worn out weak        
+lustrous
+lugubrious
+effete
+loll
+effete
+|
+production of a desired result       
+efficacy
+clinch
+castigate
+calumny
+efficacy
+|
+outflow in a stream of particles a noxious odor or vapor 
+astringent
+effluvia
+arabesque
+aseptic
+effluvia
+|
+boldness impudence arrogance         
+effrontery
+nadir
+minatory
+mesmerize
+effrontery
+|
+way out exit         
+rabble
+egress
+punctilious
+quell
+egress
+|
+worked out with much care in great detail    
+elaborate
+gorge
+garble
+froward
+elaborate
+|
+a lament a melancholy composition       
+pusillanimous
+puissance
+elegy
+prudish
+elegy
+|
+draw out          
+elicit
+pellucid
+palatial
+ostracism
+elicit
+|
+fluent speaking skillful use of language      
+implacable
+eloquence
+illicit
+imperious
+eloquence
+|
+make thin and weak        
+emaciate
+impermeable
+ignoble
+hypocrisy
+emaciate
+|
+make beautiful          
+fracas
+foible
+flop
+embellish
+embellish
+|
+use in a wrong way for one's own benefit   
+embezzle
+embezzle
+ecumenical
+dwarf
+embezzle
+|
+stir up excite         
+amortize
+amalgamate
+emote
+alcove
+emote
+|
+relying on experiment         
+empirical
+qualm
+prune
+provident
+empirical
+|
+enclose in capsule         
+enthral
+encapsulate
+embezzle
+engrave
+encapsulate
+|
+warm or glowing praise eulogy panegyric      
+encomium
+irascible
+insurrection
+insensible
+encomium
+|
+burden things that get on the way of    
+cordial
+encumbrance
+connoisseur
+contiguous
+encumbrance
+|
+making dear or liked        
+endearing
+prodigal
+predilection
+portent
+endearing
+|
+epidemic           
+baleful
+auxiliary
+endemic
+audacious
+endemic
+|
+write one's name on the back of     
+endorse
+finical
+feint
+falter
+endorse
+|
+lasting           
+plethora
+pied
+petrous
+enduring
+enduring
+|
+weaken deprive of strength attenuate       
+enervate
+disallow
+derivative
+deposition
+enervate
+|
+cause produce give rise to       
+intransigent
+engender
+inferno
+insouciant
+engender
+|
+impress deeply          
+engrave
+gainsay
+forge
+forbear
+engrave
+|
+taken up all the time or attention writing in large or formal
+palatial
+ostracism
+engrossing
+opaqueness
+engrossing
+|
+swallow up          
+engulf
+contemn
+concur
+compunction
+engulf
+|
+smth that is puzzling        
+luculent
+enigma
+lassitude
+limp
+enigma
+|
+hatred being an enemy        
+enmity
+penchant
+palliate
+overhaul
+enmity
+|
+flag/badge         
+commemorate
+ensign
+clamor
+coeval
+ensign
+|
+put into difficulties         
+entangle
+pertain
+penury
+pedestrian
+entangle
+|
+please greatly/enslave (fig)       
+pernicious
+perilous
+enthral
+peregrination
+enthral
+|
+tempt or persuade       
+entice
+quack
+provoke
+prosaic
+entice
+|
+ask earnestly          
+amalgamate
+entreat
+acclaimed
+ail
+entreat
+|
+pronounce (words)/express a theory      
+enunciate
+procrastination
+precursory
+ponderous
+enunciate
+|
+catalyst           
+ire
+enzyme
+insouciant
+invective
+enzyme
+|
+devoted to pleasure (sensuous enjoyment)       
+epicurean
+recant
+quirk
+quandary
+epicurean
+|
+letter           
+ferocity
+fecund
+epistle
+fallacious
+epistle
+|
+adjective           
+epithet
+impromptu
+impending
+impair
+epithet
+|
+brief summary representative example a typical model     
+myriad
+epitome
+mesmerize
+mollify
+epitome
+|
+steady regular          
+equable
+avow
+asterisk
+asperity
+equable
+|
+calmness of temperament         
+countenance
+contemn
+consternation
+equanimity
+equanimity
+|
+state of being balanced        
+equilibrium
+crease
+cordon
+conundrum
+equilibrium
+|
+equal distribution of weight equilibrium       
+flamboyant
+finical
+equipoise
+feud
+equipoise
+|
+having a double or doubtful meaning suspicious     
+equivocal
+curtail
+covetous
+corroboration
+equivocal
+|
+try to deceive by equivocal language      
+contemn
+equivocate
+conceal
+console
+equivocate
+|
+get rid of pull up by the roots    
+eradicate
+peremptory
+parenthesis
+palliate
+eradicate
+|
+irregular in behaviour or opinion       
+pyre
+erratic
+prosaic
+puissance
+erratic
+|
+learned scholarly          
+erudite
+evince
+equanimity
+epicurean
+erudite
+|
+avoid         
+molt
+mischievous
+eschew
+mettlesome
+eschew
+|
+abstruse intended only for a small circle of    
+esoteric
+audacious
+ascertain
+argot
+esoteric
+|
+marry give one's support to       
+peripatetic
+paucity
+parenthesis
+espouse
+espouse
+|
+formal praise panegyric         
+eulogy
+incense
+impetuous
+imperious
+eulogy
+|
+elation state of pleasant excitement       
+ebullience
+euphoria
+divulge
+dulcet
+euphoria
+|
+easy and painless death        
+euthanasia
+flout
+figurehead
+fetid
+euthanasia
+|
+tending to evade       
+cajole
+buoyant
+evasive
+brazen
+evasive
+|
+to show clearly to indicate       
+evince
+concur
+cogent
+coax
+evince
+|
+call up bring out        
+loll
+evoke
+labyrinthine
+liberality
+evoke
+|
+severe criticism          
+excoriation
+peripatetic
+paucity
+parenthesis
+excoriation
+|
+to clear from a charge of guilt     
+antithetical
+exculpate
+aggravate
+ambiguous
+exculpate
+|
+complete thorough          
+exhaustive
+plaque
+petulant
+pertain
+exhaustive
+|
+emergency an urgent situation        
+lien
+levee
+exigency
+lassitude
+exigency
+|
+set smb clear free (e.g.. from blame)     
+exoneration
+plead
+picaresque
+petrify
+exoneration
+|
+much too high or great       
+oblivious
+exorbitant
+muffler
+nonchalant
+exorbitant
+|
+to roam wander freely        
+expatiate
+machination
+lionize
+liberality
+expatiate
+|
+likely to be useful for a purpose     
+ostentation
+expedient
+oblivious
+officious
+expedient
+|
+ending expiring          
+expiation
+foster
+fluster
+flinch
+expiation
+|
+brilliant achievement develop use selfishly       
+insipid
+inimitable
+exploit
+infuriate
+exploit
+|
+argue earnestly to dissuade correct or protest     
+expostulate
+credulous
+corporeal
+convoke
+expostulate
+|
+to remove obscenity purify censor       
+boorish
+expurgate
+belabor
+blandishment
+expurgate
+|
+to cut out cut away       
+exscind
+finical
+feint
+falter
+exscind
+|
+still in existence         
+empirical
+eddy
+earthenware
+extant
+extant
+|
+without previous thought or preparation     
+extempore
+drawl
+disparate
+disheveled
+extempore
+|
+reduce the strength of lessen seriousness partially excuse    
+lull
+lope
+extenuate
+limn
+extenuate
+|
+no longer active         
+extinct
+palatial
+odium
+obtrusive
+extinct
+|
+end the existence of/wipe or put out   
+impervious
+extinguish
+idolatry
+impede
+extinguish
+|
+to destroy exterminate cut out exscind      
+extirpate
+profane
+preen
+precepts
+extirpate
+|
+praise highly          
+inundate
+extol
+ingenuous
+interdict
+extol
+|
+obtain by threats violence        
+extort
+glean
+fret
+fracas
+extort
+|
+outside the law         
+desiccant
+dereliction
+extralegal
+denouement
+extralegal
+|
+that can be freed        
+extricable
+exculpate
+equivocal
+epitome
+extricable
+|
+cheerful person          
+idiosyncrasy
+highbrow
+heinous
+extrovert
+extrovert
+|
+state of growing vigorously being full of life    
+exuberance
+chastened
+cadge
+brook
+exuberance
+|
+humorous funny jocular         
+aplomb
+facetious
+agog
+ameliorate
+facetious
+|
+easily done          
+facile
+putrefaction
+provident
+propitiatory
+facile
+|
+based on error         
+inimitable
+infuriate
+fallacious
+ineffable
+fallacious
+|
+waver/move in an uncertain manner     
+falter
+coddle
+chastisement
+caustic
+falter
+|
+without sense foolish self-satisfaction        
+churl
+fatuous
+cajole
+centurion
+fatuous
+|
+young deer try to win smb's favor     
+fawn
+eddy
+drone
+dolt
+fawn
+|
+lacking purpose or vitality ineffective careless      
+amalgamate
+feckless
+acclaimed
+ail
+feckless
+|
+fertile           
+fecund
+cryptic
+corroboration
+cordial
+fecund
+|
+pretend           
+cower
+countenance
+feint
+cordon
+feint
+|
+apt suitably expressed well chosen apropos      
+felicitous
+obfuscate
+myriad
+morbid
+felicitous
+|
+person guilty of murder        
+atonement
+felon
+ardor
+aspersion
+felon
+|
+substance become excited         
+ferment
+arabesque
+amortize
+amalgamate
+ferment
+|
+savage cruelty          
+flax
+ferocity
+ferment
+finical
+ferocity
+|
+discover by searching search        
+ferret
+propinquity
+pristine
+presumption
+ferret
+|
+showing earnest feeling         
+garment
+frugal
+fervid
+frantic
+fervid
+|
+warmth of feelings earnestness        
+fervor
+coagulation
+censure
+canvass
+fervor
+|
+stinking         
+commemorate
+fetid
+clamor
+coeval
+fetid
+|
+to shackle put in chains       
+fetter
+incorrigibility
+impromptu
+implicate
+fetter
+|
+bitter quarrel over a long period of time    
+insurrection
+ineptitude
+indulge
+feud
+feud
+|
+loyalty accuracy          
+fidelity
+gist
+frenetic
+foster
+fidelity
+|
+move restlessly make nervous        
+proclivity
+prevalent
+fidget
+premature
+fidget
+|
+carved image on the prow of a ship    
+figurehead
+emaciate
+ebullience
+duplicity
+figurehead
+|
+delicate way of dealing with a situation     
+elaborate
+finesse
+dud
+eddy
+finesse
+|
+too fussy about food clothing etc.      
+finical
+forbear
+flax
+fission
+finical
+|
+finical           
+cower
+finicky
+contentious
+correlate
+finicky
+|
+splitting or division (esp. of cells)      
+fission
+render
+reconcile
+recidivism
+fission
+|
+stare at          
+affinity
+adamant
+fixate
+abysmal
+fixate
+|
+criticism/anti-aircraft guns        
+flak
+heresy
+grievous
+gouge
+flak
+|
+brightly colored florid         
+extrovert
+expiation
+exigency
+flamboyant
+flamboyant
+|
+show off complacently         
+flaunting
+indolence
+incipient
+inane
+flaunting
+|
+pale yellow (hair) a plant       
+malleable
+flax
+loll
+macerate
+flax
+|
+able to fly trained experienced       
+fledged
+fetter
+fallacious
+extricable
+fledged
+|
+number of ships quick-moving        
+grovel
+grandiloquent
+fleet
+gnaw
+fleet
+|
+draw move back wince        
+flinch
+endearing
+effluvia
+edacious
+flinch
+|
+fail/move/fall clumsily        
+inscrutable
+flop
+indigence
+infuriate
+flop
+|
+very much ornamented naturally red (e.g.. of face)    
+florid
+mendacity
+macerate
+lumber
+florid
+|
+reject mock to go against (as in going against tradition)  
+manacle
+flout
+lope
+machination
+flout
+|
+lucky stroke        
+fluke
+intrepid
+inimical
+inferno
+fluke
+|
+make nervous or confused        
+pundit
+pry
+fluster
+provisional
+fluster
+|
+defect of character (a person is wrongly proud)    
+foible
+quail
+prudish
+protracted
+foible
+|
+prevent from carrying out contrast       
+flaunting
+foil
+felon
+finesse
+foil
+|
+put smth warm (to lessen the pain)     
+foment
+arrant
+apartheid
+amortize
+foment
+|
+incapable of failure or error     
+rebuff
+foolproof
+qualm
+ramify
+foolproof
+|
+like a man who pays too much attention to his clothes 
+foppish
+prone
+prevaricate
+preponderance
+foppish
+|
+food for horses and cattle     
+purvey
+pugnacious
+forage
+prudence
+forage
+|
+refrain from be patient ancestor       
+forbear
+goad
+gainsay
+fringe
+forbear
+|
+patience willingness to wait        
+benign
+forbearance
+austere
+beatify
+forbearance
+|
+shallow place in a river (to cross)     
+ford
+coagulation
+censure
+canvass
+ford
+|
+prevent by taking action in advance preempt     
+blandness
+beatify
+balk
+forestall
+forestall
+|
+suffer the loss of smth       
+forfeit
+opprobrious
+obloquy
+noxious
+forfeit
+|
+workshop for the shaping of metal to shape metal lead  
+libertine
+legacy
+forge
+lament
+forge
+|
+counterfeit           
+forgery
+arrant
+apartheid
+amortize
+forgery
+|
+renounce disallow repudiate         
+bogus
+forswear
+bask
+bewilder
+forswear
+|
+nurture care for         
+foster
+ameliorate
+affinity
+adamant
+foster
+|
+noisy quarrel        
+idiosyncrasy
+fracas
+heresy
+hoodwink
+fracas
+|
+easily injured broken or destroyed       
+fragile
+equable
+engrossing
+endorse
+fragile
+|
+sweet-smelling           
+apprise
+aplomb
+fragrant
+anguish
+fragrant
+|
+wildly excited with joy pain anxiety      
+frantic
+ineffable
+incongruous
+inchoate
+frantic
+|
+frantic frenzied          
+reactionary
+quibble
+quaff
+frenetic
+frenetic
+|
+worry irritation wear away        
+fret
+flamboyant
+ferret
+feint
+fret
+|
+edge ornamental border part of hair over the forehead   
+crease
+fringe
+conviction
+covert
+fringe
+|
+intractable not willing to yield or comply stubborn    
+froward
+involute
+insularity
+inscrutable
+froward
+|
+careful economical          
+pungency
+pucker
+frugal
+provoke
+frugal
+|
+bitter protest          
+fulmination
+parenthesis
+opprobrious
+odor
+fulmination
+|
+disgusting offensive due to excessiveness       
+argot
+fulsome
+amortize
+approbation
+fulsome
+|
+to deny to oppose
+gainsay
+indulge
+incite
+incense
+gainsay
+|
+make unfair selection from facts     
+glimmer
+garble
+frantic
+garrulity
+garble
+|
+article of clothing         
+garment
+nexus
+misogynist
+minatory
+garment
+|
+to gather and save to store up     
+divestiture
+disseminate
+garner
+dislodge
+garner
+|
+talkativeness           
+garrulity
+froward
+forbearance
+foment
+garrulity
+|
+too talkative          
+judicious
+garrulous
+intrepid
+irksome
+garrulous
+|
+socially awkward tactless behavior        
+gaucherie
+nibble
+moderation
+mince
+gaucherie
+|
+relevant pertinent to         
+graze
+germane
+garment
+gnaw
+germane
+|
+the point general sense        
+gist
+lassitude
+irate
+inveigh
+gist
+|
+gather facts in small quantities       
+lionize
+liberality
+glean
+lavish
+glean
+|
+ready and smooth but not sincere      
+glib
+gist
+frenetic
+foster
+glib
+|
+weak/unsteady light        
+cryptic
+glimmer
+cordon
+crass
+glimmer
+|
+over look at with selfish delight      
+gloat
+pine
+pernicious
+perilous
+gloat
+|
+supply to much fill to excess      
+luculent
+legacy
+lament
+glut
+glut
+|
+waste away bite steadily        
+gnaw
+equilibrium
+enigma
+enervate
+gnaw
+|
+smth urging a person to action      
+incite
+incense
+goad
+impugned
+goad
+|
+eat greedily/narrow opening with a stream    
+gorge
+erratic
+entice
+enigma
+gorge
+|
+soft light delicate material        
+expostulate
+gossamer
+eschew
+exigency
+gossamer
+|
+tool for cutting grooves in wood      
+gouge
+malapropism
+loll
+lien
+gouge
+|
+using pompous words       
+fidget
+grandiloquent
+facile
+ferret
+grandiloquent
+|
+serious requiring consideration         
+grave
+salacious
+resort
+repulsive
+grave
+|
+touch or scrape lightly in passing    
+broach
+brash
+graze
+blithe
+graze
+|
+living in societies liking the company      
+gregarious
+fracas
+foible
+flop
+gregarious
+|
+causing grief or pain serious dire grave     
+ineffable
+incongruous
+inchoate
+grievous
+grievous
+|
+crawl humble oneself         
+grovel
+attenuate
+articulate
+ardor
+grovel
+|
+deceit cunning          
+refractory
+guile
+rarefy
+reconcile
+guile
+|
+easily gulled          
+gullible
+pest
+peregrination
+pellucid
+gullible
+|
+burst out suddenly/talk ardently      
+luculent
+lithe
+gush
+libertine
+gush
+|
+outburst of feeling sudden rain wind fire etc.    
+gust
+recalcitrant
+quiescent
+qualm
+gust
+|
+cut roughly hired horse        
+lachrymose
+hack
+inured
+itinerate
+hack
+|
+calm and peaceful       
+halcyon
+morose
+mesmerize
+mellifluous
+halcyon
+|
+to make holy consecrate        
+idiosyncrasy
+hallow
+heresy
+hoodwink
+hallow
+|
+a long passionate speech        
+harangue
+dainty
+cower
+countenance
+harangue
+|
+smth or smb that foretells the coming of    
+forfeit
+forage
+harbinger
+foible
+harbinger
+|
+to distress create stress or torment      
+harrow
+pliant
+pinch
+petulant
+harrow
+|
+arrogant conceited          
+luminary
+haughty
+legacy
+lope
+haughty
+|
+attention/give notice to       
+heed
+cordon
+consternation
+connoisseur
+heed
+|
+odious (of crime)         
+incense
+heinous
+impermeable
+impromptu
+heinous
+|
+belief contrary to what is generally accepted     
+heresy
+diatribe
+deprecate
+denigrate
+heresy
+|
+sealed by fusion         
+provoke
+prosaic
+hermetic
+prone
+hermetic
+|
+made up of different kinds       
+heterogeneous
+dislodge
+dilate
+deviance
+heterogeneous
+|
+make by hard work cut (by striking)     
+neophyte
+hew
+minatory
+multifarious
+hew
+|
+(person) with superior tastes      
+highbrow
+conundrum
+connoisseur
+concur
+highbrow
+|
+hairy shaggy          
+burnish
+blatant
+bewilder
+hirsute
+hirsute
+|
+mischievous trick played on smb for a joke    
+hoax
+fidelity
+fatuous
+exuberance
+hoax
+|
+polloi the masses the rabble       
+hoodwink
+hoi
+hoi
+heterogeneous
+hoi
+|
+not soled with hole        
+hollow
+maul
+lurk
+luculent
+hollow
+|
+leather case for a pistol       
+pluck
+holster
+picaresque
+plaque
+holster
+|
+act of preaching       
+homiletics
+sagacious
+resilience
+repudiate
+homiletics
+|
+stone used for sharpening tools       
+foppish
+hone
+finicky
+flout
+hone
+|
+trick mislead          
+hoodwink
+divergence
+discrete
+disconcert
+hoodwink
+|
+liking to give hospitality        
+reticent
+resilience
+hospitable
+repudiate
+hospitable
+|
+arrogant pride          
+hubris
+implosion
+impecunious
+immaculate
+hubris
+|
+make or become silent      
+oblivious
+nadir
+morose
+hush
+hush
+|
+worthless outside part of anything       
+husk
+latent
+ire
+inveterate
+husk
+|
+falsely making oneself appear to be good     
+inimitable
+hypocrisy
+indefatigability
+ineptitude
+hypocrisy
+|
+person who attacks popular beliefs       
+iconoclast
+ostensible
+obstreperous
+obdurate
+iconoclast
+|
+personal mannerism          
+hoi
+heterogeneous
+idiosyncrasy
+haughty
+idiosyncrasy
+|
+excessive admiration of         
+idolatry
+evince
+equanimity
+epicurean
+idolatry
+|
+a carefree episode or experience       
+mendicant
+idyll
+lurk
+massacre
+idyll
+|
+dishonorable common undignified         
+ignoble
+cravat
+convoluted
+contrite
+ignoble
+|
+shameful dishonorable undignified disgraceful        
+brook
+ignominious
+berate
+boorish
+ignominious
+|
+unlawful forbidden          
+illicit
+effrontery
+dupe
+drone
+illicit
+|
+complicated and embarrassing situation        
+fragrant
+forgery
+imbroglio
+forbearance
+imbroglio
+|
+pure faultless          
+immaculate
+inundate
+innocuous
+infuse
+immaculate
+|
+likely to come or happen soon      
+conciliatory
+imminent
+coalescing
+commemorate
+imminent
+|
+that cannot be changed        
+immutable
+conspicuous
+complaisance
+collusion
+immutable
+|
+worsen diminish in value        
+profane
+impair
+preclude
+prim
+impair
+|
+unmoved feeling no sign of passion      
+impassive
+perish
+peccadillo
+pariah
+impassive
+|
+having little or no money       
+felon
+fawn
+impecunious
+facetious
+impecunious
+|
+hinder get in the way of      
+impede
+poncho
+pivotal
+pious
+impede
+|
+smth that hinders (e.g. stammer)       
+coax
+impediment
+catalyst
+clientele
+impediment
+|
+imminent being about to happen expected      
+impending
+demagogue
+cursory
+crush
+impending
+|
+urgent essential          
+ascetic
+apprehensive
+apartheid
+imperative
+imperative
+|
+commanding haughty arrogant         
+imperious
+earthenware
+dolt
+divergence
+imperious
+|
+that cannot be permeated        
+maverick
+manacle
+impermeable
+malapropism
+impermeable
+|
+calm not capable of being excited      
+imperturbable
+incense
+impetuous
+imperious
+imperturbable
+|
+not allowing to pass through (of materials)     
+amortize
+impervious
+adorn
+alloy
+impervious
+|
+haughty arrogant commanding         
+imperviousness
+implicit
+impassive
+imbroglio
+imperviousness
+|
+having sudden energy impulsive thrusting ahead forceful     
+introspection
+impetuous
+infuse
+insurrection
+impetuous
+|
+lack of reverence or dutifulness       
+impiety
+holster
+harangue
+gush
+impiety
+|
+incapable of being placated unpleasable       
+pliant
+plaque
+implacable
+pitfall
+implacable
+|
+show that smb has a share      
+implicate
+malapropism
+loll
+lien
+implicate
+|
+implied though not plainly expressed       
+concord
+coeval
+coalescing
+implicit
+implicit
+|
+collapse bursting inward         
+implosion
+levee
+itinerate
+irate
+implosion
+|
+beg urgently solicit (of a prostitute)      
+epicurean
+importune
+encumbrance
+ensign
+importune
+|
+an invocation of evil a curse      
+imprecation
+paradigm
+opaqueness
+odium
+imprecation
+|
+without preparation          
+germane
+garment
+impromptu
+frugal
+impromptu
+|
+rash indiscreet          
+impudent
+refine
+rebuff
+rant
+impudent
+|
+challenged to be doubted        
+cursory
+impugned
+corroboration
+credulity
+impugned
+|
+to attribute to a cause or source ascribe    
+impute
+disdain
+deviance
+desuetude
+impute
+|
+not paying proper attention        
+curriculum
+inadvertent
+correlate
+crease
+inadvertent
+|
+silly senseless          
+inane
+exorbitant
+erudite
+equipoise
+inane
+|
+since because          
+impute
+importune
+inasmuch
+impiety
+inasmuch
+|
+make angry          
+incense
+malinger
+lucubrate
+lionize
+incense
+|
+often repeated continual         
+apostate
+incessant
+ail
+amortize
+incessant
+|
+not yet fully formed rudimentary elementary      
+inchoate
+permeate
+pedestrian
+partisan
+inchoate
+|
+beginning         
+presage
+incipient
+pliant
+preclude
+incipient
+|
+engrave make a cut in       
+incise
+relapse
+recluse
+recant
+incise
+|
+stir up rouse         
+inferno
+indulgent
+incite
+indigenous
+incite
+|
+directing the mind in a certain direction     
+inclined
+equable
+engrossing
+endorse
+inclined
+|
+out of place not in harmony or agreement    
+pernicious
+incongruous
+paucity
+perfidy
+incongruous
+|
+cannot be cured or corrected       
+incorrigibility
+phlegmatic
+peripatetic
+peremptory
+incorrigibility
+|
+skeptical unwilling to believe        
+incongruous
+imprecation
+implacable
+incredulous
+incredulous
+|
+fix firmly by repetition        
+inculcate
+portent
+plaintive
+pique
+inculcate
+|
+official duties          
+centurion
+castigate
+incumbents
+calumny
+incumbents
+|
+a raid a sudden attack       
+incursion
+ebullience
+dormant
+divestiture
+incursion
+|
+not easily exhaustible tirelessness        
+glut
+indefatigability
+fret
+gaucherie
+indefatigability
+|
+that cannot be rubbed out       
+indelible
+craven
+cordial
+contumacious
+indelible
+|
+poverty           
+rancorous
+indigence
+pusillanimous
+quirk
+indigence
+|
+native           
+indigenous
+coagulation
+censure
+canvass
+indigenous
+|
+not easily heard seen clearly marked      
+mollify
+misanthrope
+indistinct
+mettle
+indistinct
+|
+laziness           
+indolence
+pedestrian
+palate
+ostentation
+indolence
+|
+not easily discouraged or subdued       
+propitiatory
+probity
+preternatural
+indomitable
+indomitable
+|
+gratify give way to satisfy allow oneself     
+indulge
+provoke
+profligate
+procrastination
+indulge
+|
+inclined to indulge         
+harrow
+indulgent
+goad
+gush
+indulgent
+|
+to great to be described in words     
+ineffable
+deter
+demur
+deferential
+ineffable
+|
+certain inevitable          
+muffler
+moderation
+ineluctable
+mince
+ineluctable
+|
+unskillful said or done at the wrong time    
+inept
+apotheosis
+alloy
+ail
+inept
+|
+quality of being unskillful      
+coy
+ineptitude
+contiguous
+corroboration
+ineptitude
+|
+hell         
+inferno
+reiterate
+reciprocity
+rebuff
+inferno
+|
+fill with fury or rage       
+engulf
+infuriate
+elegy
+endemic
+infuriate
+|
+put pour fill         
+infuse
+garrulous
+fragile
+forge
+infuse
+|
+naive young artless frank honest sincere      
+endorse
+encapsulate
+ingenuous
+emaciate
+ingenuous
+|
+take in by swallowing        
+ingest
+rave
+quell
+quack
+ingest
+|
+harmful or friendly         
+contemn
+inimical
+conceal
+console
+inimical
+|
+defying imitation unmatchable         
+inimitable
+fidelity
+fatuous
+exuberance
+inimitable
+|
+causing no harm         
+nonplused
+innocuous
+misogynist
+nebulous
+innocuous
+|
+incapable of being discovered or understood      
+inscrutable
+august
+ascribe
+arrogance
+inscrutable
+|
+unconscious unresponsive unaffected         
+exhaustive
+evasive
+insensible
+esoteric
+insensible
+|
+suggest unpleasantly make a way for smth gently    
+insinuate
+finesse
+fecund
+fallacious
+insinuate
+|
+without taste or flavor        
+fragile
+insipid
+flout
+forestall
+insipid
+|
+unconcerned carefree          
+insouciant
+discrete
+detumescence
+desiccant
+insouciant
+|
+narrow-mindedness isolated          
+diatribe
+deprecate
+denigrate
+insularity
+insularity
+|
+rising of people to open resistance to     
+insurrection
+avow
+asterisk
+asperity
+insurrection
+|
+prohibit forbid          
+cant
+cadge
+interdict
+brook
+interdict
+|
+as an installment         
+interim
+fluster
+finical
+feud
+interim
+|
+place here and there        
+fetter
+intersperse
+extrovert
+felon
+intersperse
+|
+unwillingness to compromise stubbornness intractability       
+intransigence
+lope
+latent
+labyrinthine
+intransigence
+|
+uncompromising           
+irrevocable
+intransigent
+interdict
+invincible
+intransigent
+|
+fearless brave undaunted         
+intrepid
+eschew
+enunciate
+ensign
+intrepid
+|
+examining one's own thoughts and feelings      
+premature
+preclude
+introspection
+poncho
+introspection
+|
+flood cover by overflowing        
+inundate
+exscind
+evasive
+esoteric
+inundate
+|
+accustomed to adapted         
+debacle
+craven
+covetous
+inured
+inured
+|
+abusive language curses         
+invective
+ominous
+obdurate
+nonchalant
+invective
+|
+to attack verbally denounce deprecate       
+enmity
+inveigh
+eloquence
+enduring
+inveigh
+|
+deep-rooted. long-established          
+inveterate
+noisome
+mollify
+misanthrope
+inveterate
+|
+too strong to be defeated     
+avow
+austere
+invincible
+attune
+invincible
+|
+complex           
+involute
+boisterous
+belligerent
+bask
+involute
+|
+irritable easily angered         
+personable
+irascible
+pedantic
+perilous
+irascible
+|
+angry           
+irate
+engender
+elicit
+effluvia
+irate
+|
+anger           
+cajole
+ire
+blandness
+broach
+ire
+|
+tiresome           
+irksome
+connoisseur
+combustion
+cogent
+irksome
+|
+hesitating undecided          
+pernicious
+perilous
+irresolute
+peregrination
+irresolute
+|
+final and unalterable         
+irrevocable
+heed
+graze
+gorge
+irrevocable
+|
+to travel from place to place to peregrinate    
+conceit
+itinerate
+coagulation
+combustion
+itinerate
+|
+talk excitedly utter rapidly        
+jabber
+ambivalent
+affable
+accretion
+jabber
+|
+gibe make fun of        
+recant
+jibe
+quell
+rant
+jibe
+|
+meant as a joke        
+jocular
+repine
+redoubtable
+reconcile
+jocular
+|
+sound in judgment wise        
+calipers
+burgeon
+judicious
+breach
+judicious
+|
+draw together unite firmly        
+knit
+extinct
+exculpate
+euthanasia
+knit
+|
+to entangle the state of affairs      
+forbear
+labyrinthine
+fixate
+fluster
+labyrinthine
+|
+causing tears tearful         
+lachrymose
+incredulous
+impudent
+implicit
+lachrymose
+|
+(of eyes) dull         
+lavish
+irresolute
+involute
+lackluster
+lackluster
+|
+show feel great sorrow        
+lament
+overweening
+obviate
+obsequious
+lament
+|
+weariness tiredness          
+irate
+inveigh
+lassitude
+intrepid
+lassitude
+|
+present but not yet active developed or visible    
+latent
+plumb
+piquant
+picaresque
+latent
+|
+expressing or giving praise        
+dearth
+laudatory
+covetous
+curmudgeon
+laudatory
+|
+giving or producing freely liberally or generously     
+lavish
+cogent
+chisel
+chary
+lavish
+|
+smth handed down from ancestors       
+hew
+legacy
+gregarious
+harrow
+legacy
+|
+formal reception/embankment        
+levee
+profane
+preen
+precepts
+levee
+|
+lack of seriousness       
+gregarious
+gossamer
+levity
+gloat
+levity
+|
+statement that damages reputation        
+libel
+forgery
+flout
+fledged
+libel
+|
+free giving generosity         
+disingenuous
+diatribe
+detraction
+liberality
+liberality
+|
+immoral person          
+libertine
+nascent
+mince
+meticulous
+libertine
+|
+legal claim until a debt on it is repaid   
+dissolution
+lien
+discomfit
+dislodge
+lien
+|
+paint portray          
+limn
+loquacious
+laudatory
+lachrymose
+limn
+|
+lacking strength walking unevenly        
+hirsute
+heresy
+limp
+harbinger
+limp
+|
+treat as a famous person     
+lionize
+equivocal
+ensign
+engrave
+lionize
+|
+bending twisting          
+opaqueness
+lithe
+noxious
+occluded
+lithe
+|
+rest to sit or stand in a lazy way hang (dog's tongue)
+loll
+feint
+extirpate
+extant
+loll
+|
+move along with long strides     
+malinger
+lope
+lithe
+macabre
+lope
+|
+talkative garrulous          
+loquacious
+recidivism
+quotidian
+quibble
+loquacious
+|
+write in scholarly fashion        
+intersperse
+insouciant
+lucubrate
+innocuous
+lucubrate
+|
+easily understood lucid clear        
+luculent
+hoax
+hack
+grovel
+luculent
+|
+mournful excessively sad         
+ford
+lugubrious
+flamboyant
+foil
+lugubrious
+|
+become quiet or less active       
+lull
+preen
+plod
+platitude
+lull
+|
+move in a clumsy/noisy way     
+holster
+lumber
+gust
+heterogeneous
+lumber
+|
+star light-giving body         
+luminary
+falter
+extant
+expiation
+luminary
+|
+be out of view ready to attack   
+philistine
+pest
+lurk
+pernicious
+lurk
+|
+being bright polished         
+lustrous
+mettle
+malinger
+machination
+lustrous
+|
+gruesome suggesting death         
+predilection
+macabre
+plaque
+poncho
+macabre
+|
+make or become soft by soaking in water  
+macerate
+drowsiness
+disseminate
+dislodge
+macerate
+|
+plot scheme (esp. evil)        
+ebullience
+dormant
+divestiture
+machination
+machination
+|
+tactless clumsy          
+maladroit
+holster
+harangue
+gush
+maladroit
+|
+misuse of a word (for one that resembles it)   
+avow
+austere
+malapropism
+attune
+malapropism
+|
+wishing to do evil        
+malevolence
+apropos
+ambivalent
+alloy
+malevolence
+|
+injurious speak ill of smb tell lie     
+evasive
+malign
+epicurean
+erudite
+malign
+|
+to fake illness or injury in order to shirk a duty 
+malinger
+dud
+dissolution
+disparate
+malinger
+|
+yielding easily shaped moldable adapting       
+congeal
+malleable
+coeval
+conceal
+malleable
+|
+chains for the hands or feet      
+manacle
+renovate
+recondite
+reciprocity
+manacle
+|
+cruel killing of a large number of people    
+defer
+dearth
+massacre
+cursory
+massacre
+|
+be admitted enter a university as a student    
+matriculation
+lugubrious
+levee
+lassitude
+matriculation
+|
+sentimental in a silly or tearful way     
+finesse
+fecund
+fallacious
+maudlin
+maudlin
+|
+hurt by rough handling      
+maul
+hack
+gnaw
+glean
+maul
+|
+rebel nonconformist          
+froward
+maverick
+foolproof
+fracas
+maverick
+|
+sweetly flowing          
+mellifluous
+minatory
+massacre
+malevolence
+mellifluous
+|
+dishonesty           
+contiguous
+constrict
+mendacity
+consequential
+mendacity
+|
+a beggar          
+mendicant
+bellicose
+austere
+attune
+mendicant
+|
+quick changeable in character fleeting       
+clot
+mercurial
+cantankerous
+chicanery
+mercurial
+|
+attractive on the surface but of little value    
+meretricious
+apropos
+ambivalent
+alloy
+meretricious
+|
+hypnotize           
+gaucherie
+mesmerize
+forswear
+fulsome
+mesmerize
+|
+giving great attention to details       
+meticulous
+plead
+picaresque
+petrify
+meticulous
+|
+quality of endurance or courage       
+refractory
+recreancy
+mettle
+recitals
+mettle
+|
+courageous high-spirited          
+mettlesome
+cordon
+consternation
+connoisseur
+mettlesome
+|
+fairly good but not very good      
+fetid
+middling
+extricable
+felicitous
+middling
+|
+menacing threatening          
+minatory
+glimmer
+froward
+fragrant
+minatory
+|
+pronounce or speak affectedly euphemize       
+atonement
+mince
+ardor
+aspersion
+mince
+|
+person who hates mankind        
+misanthrope
+approbation
+ambiguous
+alleviate
+misanthrope
+|
+harmful causing mischief         
+recluse
+recant
+mischievous
+rarefy
+mischievous
+|
+person who loves wealth and spends little     
+miser
+recluse
+raffish
+quirk
+miser
+|
+one who hates women/females        
+myriad
+misogynist
+mesmerize
+mollify
+misogynist
+|
+quality of being limited not extreme      
+moderation
+philistine
+perilous
+peregrination
+moderation
+|
+make calmer or quieter        
+descry
+defiance
+decorum
+mollify
+mollify
+|
+moult lose hair feathers before new growing     
+molt
+astringent
+argot
+apt
+molt
+|
+diseased unhealthy (e.g.. about ideas)       
+enmity
+engender
+morbid
+endearing
+morbid
+|
+ill-tempered unsocial          
+morose
+evoke
+equilibrium
+epistle
+morose
+|
+cloth worn round the neck/silencer     
+barrage
+muffler
+asterisk
+aver
+muffler
+|
+varied motley greatly diversified        
+multifarious
+pedantic
+paean
+ostensible
+multifarious
+|
+worldly as opposed to spiritual commonplace everyday     
+muffler
+mundane
+mendicant
+miser
+mundane
+|
+very great number         
+myriad
+derision
+decry
+dawdler
+myriad
+|
+lowest weakest point         
+obfuscate
+nonplused
+nadir
+neophyte
+nadir
+|
+coming into existence emerging        
+nascent
+reprobate
+refractory
+recreancy
+nascent
+|
+cloud-like hazy vague indistinct        
+resuscitation
+renovate
+reiterate
+nebulous
+nebulous
+|
+taking too little care        
+negligent
+detraction
+denigrate
+defiance
+negligent
+|
+person who has been converted to a belief    
+husk
+neophyte
+haughty
+holster
+neophyte
+|
+a connection tie or link       
+nexus
+forgery
+flout
+fledged
+nexus
+|
+show some inclination to accept (an offer)     
+regale
+redeem
+nibble
+recompense
+nibble
+|
+offensive disgusting (smell)         
+noisome
+pedantic
+paean
+ostensible
+noisome
+|
+not having interest         
+hone
+nonchalant
+halcyon
+highbrow
+nonchalant
+|
+greatly surprised          
+nonplused
+calumny
+boorish
+blatant
+nonplused
+|
+a quack remedy an untested cure      
+prim
+nostrum
+plunge
+premature
+nostrum
+|
+harmful           
+noxious
+blandishment
+bask
+baleful
+noxious
+|
+trifling/worthless         
+alloy
+ail
+nugatory
+affable
+nugatory
+|
+hardened and unrepenting stubborn inflexible       
+obdurate
+pry
+prolix
+profligacy
+obdurate
+|
+to darken make obscure muddle       
+disheveled
+obfuscate
+detraction
+discountenance
+obfuscate
+|
+unaware having no memory        
+oblivious
+fleet
+fetter
+ferocity
+oblivious
+|
+abusively detractive language sharp criticism vituperation      
+expostulate
+obloquy
+eschew
+exigency
+obloquy
+|
+too eager to obey or serve      
+obsequious
+encapsulate
+edible
+ebullience
+obsequious
+|
+noisy loud          
+foppish
+fluster
+obstreperous
+flinch
+obstreperous
+|
+to be established accepted or customary      
+obtain
+epicurean
+enduring
+encomium
+obtain
+|
+projecting prominent undesirably noticeable        
+dislodge
+obtrusive
+dexterity
+discreet
+obtrusive
+|
+blunt/stupid         
+obtuse
+cravat
+convoluted
+contrite
+obtuse
+|
+to make unnecessary get rid of      
+contemn
+concur
+compunction
+obviate
+obviate
+|
+blocked up          
+occluded
+incense
+impetuous
+imperious
+occluded
+|
+repulsive hateful          
+dud
+drawl
+odious
+doggerel
+odious
+|
+contempt dislike aversion         
+odium
+incredulous
+impudent
+implicit
+odium
+|
+smell favor reputation         
+apartheid
+odor
+agile
+ambivalent
+odor
+|
+too eager or ready to help offer advice    
+officious
+exoneration
+erratic
+equilibrium
+officious
+|
+threatening         
+exorbitant
+ominous
+equivocal
+evince
+ominous
+|
+needing effort burdensome         
+onerous
+pernicious
+pellucid
+patron
+onerous
+|
+dullness/not allowing light to pass through    
+lien
+levee
+opaqueness
+lassitude
+opaqueness
+|
+showing scorn or reproach        
+opprobrious
+combustion
+cling
+chisel
+opprobrious
+|
+to turn to bone to settle rigidly into an idea  
+pariah
+ossify
+officious
+ossify
+ossify
+|
+seeming appearing as such professed       
+ostensible
+levity
+jabber
+ire
+ostensible
+|
+display to obtain admiration or envy      
+extirpate
+ostentation
+evoke
+expurgate
+ostentation
+|
+shut out from society refuse to meet talk    
+ostracism
+expostulate
+euphoria
+erudite
+ostracism
+|
+examine thoroughly to learn about the condition     
+contentious
+constrain
+overhaul
+connotation
+overhaul
+|
+presumptuously arrogant overbearing immoderate being a jerk     
+overweening
+finical
+feint
+falter
+overweening
+|
+song of praise or triumph       
+deposition
+paean
+curtail
+delineate
+paean
+|
+roof of the mouth sense of taste     
+palate
+morbid
+meretricious
+maverick
+palate
+|
+magnificent           
+incursion
+palatial
+impromptu
+incite
+palatial
+|
+lessen the severity of        
+palliate
+catalyst
+brook
+brass
+palliate
+|
+can be felt touched understood       
+perfidious
+penitent
+palpability
+peccadillo
+palpability
+|
+tremble beat rapidly and irregularly       
+palpitate
+infuse
+indefatigability
+incorrigibility
+palpitate
+|
+formal praise eulogy         
+apostate
+panegyric
+ail
+amortize
+panegyric
+|
+a model example or pattern       
+paradigm
+combustion
+cling
+chisel
+paradigm
+|
+sentence within another one smth separated      
+calumny
+parenthesis
+blithe
+buoyant
+parenthesis
+|
+an outcast a rejected and despised person     
+pariah
+felon
+extort
+extenuate
+pariah
+|
+too economical miserly         
+hoi
+heterogeneous
+parsimonious
+haughty
+parsimonious
+|
+one-sided committed to a party biased or prejudiced    
+partisan
+inane
+impervious
+impending
+partisan
+|
+regular customer person who gives support      
+phlegmatic
+patron
+perfidious
+pertain
+patron
+|
+scarcity a lacking of        
+paucity
+petrified
+peremptory
+penchant
+paucity
+|
+small sin small weakness in one's character     
+plethora
+pied
+petrous
+peccadillo
+peccadillo
+|
+bookish showing off learning        
+pedantic
+baneful
+atonement
+assiduous
+pedantic
+|
+commonplace trite unremarkable         
+foil
+florid
+pedestrian
+flax
+pedestrian
+|
+transparent easy to understand        
+pellucid
+complaisance
+coalescing
+clinch
+pellucid
+|
+strong inclination a liking        
+knit
+penchant
+introspection
+irresolute
+penchant
+|
+feeling or showing regret        
+penitent
+hypocrisy
+heterogeneous
+haughty
+penitent
+|
+poor/stingy         
+incorrigibility
+penurious
+implicit
+incessant
+penurious
+|
+extreme poverty          
+penury
+cadge
+bogus
+bilge
+penury
+|
+traveling about wandering         
+engrossing
+endorse
+peregrination
+encapsulate
+peregrination
+|
+urgent imperative unchallengeable ending debate       
+peremptory
+disseminate
+discountenance
+dilate
+peremptory
+|
+treacherous faithless          
+efficacy
+dud
+drawl
+perfidious
+perfidious
+|
+treachery breaking of faith        
+perfidy
+covetous
+contumacious
+consummate
+perfidy
+|
+done as a duty without care      
+amalgamate
+perfunctory
+acclaimed
+ail
+perfunctory
+|
+dangerous           
+perilous
+paean
+occluded
+obstreperous
+perilous
+|
+wandering           
+impute
+importune
+peripatetic
+impiety
+peripatetic
+|
+be destroyed decay         
+perish
+covetous
+contumacious
+consummate
+perish
+|
+willful FALSE statement unlawful act       
+disconcert
+perjury
+derision
+diaphanous
+perjury
+|
+spread into every part of       
+permeate
+piquant
+personable
+perish
+permeate
+|
+harmful injurious          
+quiescent
+pernicious
+pry
+quaff
+pernicious
+|
+be guilty commit (a crime)       
+perpetrate
+prevalent
+poncho
+pluck
+perpetrate
+|
+pleasing in appearance attractive        
+alacrity
+affinity
+personable
+adamant
+personable
+|
+quick judging and understanding        
+perspicacity
+peremptory
+parenthesis
+palliate
+perspicacity
+|
+belong as a part have reference      
+hush
+pertain
+harrow
+hollow
+pertain
+|
+destructive thing or a person who is nuisance    
+pest
+argot
+antithetical
+ameliorate
+pest
+|
+taken away power (to think feel act)     
+reconcile
+petrified
+rabble
+recant
+petrified
+|
+to make hard rocklike        
+petrify
+mettle
+malinger
+machination
+petrify
+|
+like a rock hard stony       
+goad
+glib
+petrous
+garrulous
+petrous
+|
+unreasonably impatient          
+petulant
+gnaw
+fulsome
+fret
+petulant
+|
+a smug ignorant person one who lacks knowledge    
+dote
+philistine
+disheveled
+divergence
+philistine
+|
+calm sluggish temperament unemotional        
+phlegmatic
+endorse
+egress
+edible
+phlegmatic
+|
+involving clever rogues or adventurers       
+euphoria
+epithet
+entreat
+picaresque
+picaresque
+|
+of mixed colors         
+pied
+covetous
+contumacious
+consummate
+pied
+|
+be too tight take between the thumb and finger   
+foil
+florid
+pinch
+flax
+pinch
+|
+waste away through sorrow or illness    
+pine
+prosaic
+procrastination
+prevaricate
+pine
+|
+dutiful to parents devoted to religion      
+fallacious
+pious
+expiation
+extort
+pious
+|
+agreeably pungent stimulating         
+piquant
+contiguous
+condone
+conceit
+piquant
+|
+hurt the pride or self-respect stir (curiosity)     
+fidget
+pique
+facile
+ferret
+pique
+|
+covered hole as a trap unsuspected danger     
+pitfall
+amortize
+aggravate
+admonitory
+pitfall
+|
+essential part force soft liquid substance      
+disparate
+disheveled
+pith
+discredit
+pith
+|
+of great importance (others depend on it)     
+pivotal
+parenthesis
+opprobrious
+odor
+pivotal
+|
+soothe pacify calm         
+entice
+encumbrance
+embezzle
+placate
+placate
+|
+mournful melancholy sorrowful         
+plaintive
+latent
+ire
+inveterate
+plaintive
+|
+flat metal on a wall as a memorial    
+aseptic
+plaque
+apotheosis
+arrant
+plaque
+|
+a trite or banal statement unoriginality      
+platitude
+equable
+engrossing
+endorse
+platitude
+|
+request           
+finesse
+fetter
+plea
+ferocity
+plea
+|
+address a court of law as an advocate    
+plead
+intrepid
+inimical
+inferno
+plead
+|
+glut           
+inferno
+plethora
+incongruous
+indomitable
+plethora
+|
+pliable easily bent shaped or twisted      
+pliant
+mendicant
+machination
+luminary
+pliant
+|
+continue doing smth without resting       
+heinous
+plod
+gouge
+halcyon
+plod
+|
+pull the feathers off pick (e.g.. flowers)     
+pluck
+indolence
+incipient
+inane
+pluck
+|
+get to the root of       
+insularity
+inscrutable
+plumb
+ingenuous
+plumb
+|
+fall plunge steeply         
+plummet
+hone
+harrow
+hack
+plummet
+|
+move quickly suddenly and with force      
+extralegal
+plunge
+exhaustive
+extempore
+plunge
+|
+deeply moving keen         
+poignant
+deprave
+debacle
+curtail
+poignant
+|
+large piece of cloth      
+inimitable
+poncho
+indefatigability
+ineptitude
+poncho
+|
+heavy bulky dull         
+ponderous
+ferment
+extralegal
+extinct
+ponderous
+|
+omen marvelous threatening         
+recast
+rave
+portent
+ramify
+portent
+|
+uncertain risky dangerous         
+precarious
+convoluted
+console
+congeal
+precarious
+|
+rules establishing standards of conduct       
+renovate
+precepts
+recitals
+regale
+precepts
+|
+prevent make impossible         
+preclude
+ebullient
+dote
+divulge
+preclude
+|
+preliminary anticipating          
+incense
+impetuous
+imperious
+precursory
+precursory
+|
+special liking mental preference        
+predilection
+extricable
+expedient
+exhaustive
+predilection
+|
+have more power than others       
+gouge
+glut
+predominate
+gist
+predominate
+|
+tidy/show self-satisfaction        
+preen
+assuage
+ardor
+approbation
+preen
+|
+doing or happening smth before the right time    
+dormant
+premature
+disencumber
+distraught
+premature
+|
+greatness in number strength weight       
+preponderance
+quiescence
+puissance
+prudish
+preponderance
+|
+warning sign          
+debacle
+presage
+cower
+curriculum
+presage
+|
+arrogance         
+presumption
+pariah
+ossify
+officious
+presumption
+|
+not normal or usual        
+quiescence
+quail
+preternatural
+pusillanimous
+preternatural
+|
+common           
+prevalent
+importune
+impede
+imminent
+prevalent
+|
+to equivocate to stray from the truth     
+intransigence
+ingenuous
+inept
+prevaricate
+prevaricate
+|
+neat formal          
+prim
+engrossing
+emaciate
+egress
+prim
+|
+primitive unspoiled pure as in earlier times unadulterated    
+demagogue
+pristine
+cryptic
+decree
+pristine
+|
+uprightness incorruptibility principle         
+probity
+lithe
+lament
+judicious
+probity
+|
+inclination           
+lustrous
+lugubrious
+proclivity
+loll
+proclivity
+|
+keeping on putting off        
+procrastination
+nascent
+mince
+meticulous
+procrastination
+|
+wasteful reckless with money        
+eradicate
+prodigal
+enigma
+epitome
+prodigal
+|
+enormous wonderful          
+prodigious
+evasive
+equable
+enzyme
+prodigious
+|
+worldly having contempt for God       
+flinch
+profane
+fervid
+fixate
+profane
+|
+shameless immorality        
+profligacy
+protracted
+prodigious
+pristine
+profligacy
+|
+wasteful prodigal licentious extravagant        
+renovate
+reiterate
+profligate
+refine
+profligate
+|
+depth           
+profundity
+coerce
+chauvinist
+censure
+profundity
+|
+abundant/lavish         
+garner
+profuse
+forfeit
+froward
+profuse
+|
+grow reproduce by rapid multification       
+proliferate
+flop
+fidelity
+fervid
+proliferate
+|
+tiring because too long        
+evoke
+prolix
+epithet
+esoteric
+prolix
+|
+prostrate inclined to (undesirable things)       
+prone
+connoisseur
+combustion
+cogent
+prone
+|
+increasing the number spreading extending       
+poignant
+plod
+propagation
+platitude
+propagation
+|
+nearness in time or place affinity of nature    
+propinquity
+enduring
+elaborate
+effete
+propinquity
+|
+conciliatory appeasing mitigating         
+enunciate
+propitiatory
+encapsulate
+enigma
+propitiatory
+|
+auspicious presenting favorable circumstances        
+propitious
+prosaic
+procrastination
+prevaricate
+propitious
+|
+everyday mundane commonplace trite pedestrian       
+irksome
+intersperse
+insouciant
+prosaic
+prosaic
+|
+denounce as dangerous         
+proscribe
+rebuff
+quiescence
+quail
+proscribe
+|
+prolonged           
+divergence
+dissemble
+protracted
+disinter
+protracted
+|
+frugal looking to the future       
+provident
+curtail
+covetous
+corroboration
+provident
+|
+of the present time only       
+ascribe
+provisional
+apostate
+argot
+provisional
+|
+make angry vax         
+provoke
+itinerate
+intrepid
+interdict
+provoke
+|
+careful forethought          
+clot
+prudence
+cantankerous
+chicanery
+prudence
+|
+easily shocked excessively modest        
+prudish
+disdain
+deviance
+desuetude
+prudish
+|
+dried plum silly person        
+gaucherie
+garble
+prune
+froward
+prune
+|
+get smth inquire too curiously       
+pry
+clientele
+canvass
+calipers
+pry
+|
+wrinkle         
+prudish
+profuse
+prodigious
+pucker
+pucker
+|
+fond of in the habit of fighting     
+pugnacious
+churl
+cant
+cadge
+pugnacious
+|
+strength         
+frantic
+puissance
+fluster
+forge
+puissance
+|
+precise paying attention to trivialities       
+punctilious
+coagulation
+censure
+canvass
+punctilious
+|
+pedant authority on a subject       
+pellucid
+patron
+pundit
+paradigm
+pundit
+|
+sharpness stinging quality         
+pungency
+demur
+curtail
+cryptic
+pungency
+|
+provide supply          
+rabble
+purvey
+punctilious
+quell
+purvey
+|
+cowardly craven          
+pusillanimous
+consummate
+concord
+complaisance
+pusillanimous
+|
+becoming rotten        
+indomitable
+putrefaction
+incense
+incursion
+putrefaction
+|
+large pile of wood for burning      
+pyre
+exhaustive
+equivocate
+equable
+pyre
+|
+person dishonestly claiming to smth       
+caustic
+cantankerous
+quack
+cajole
+quack
+|
+drink deeply          
+quaff
+incite
+implosion
+impetuous
+quaff
+|
+lose courage turn frightened        
+impugned
+quail
+impede
+implicate
+quail
+|
+feeling of doubt temporary feeling of sickness     
+qualm
+lionize
+lackluster
+jocular
+qualm
+|
+state of doubt or perplexity     
+ardor
+quandary
+ambivalent
+apprehensive
+quandary
+|
+suppress subdue          
+quell
+remonstrate
+recompense
+recast
+quell
+|
+try to avoid by sophistication       
+propitiatory
+proliferate
+quibble
+profane
+quibble
+|
+state of being passive/motionless      
+quiescence
+redeem
+rave
+ramify
+quiescence
+|
+at rest dormant torpid        
+epithet
+quiescent
+endemic
+enthral
+quiescent
+|
+habit or action peculiar to smb or smth    
+quirk
+dilate
+derision
+deplete
+quirk
+|
+generous unselfish          
+plumb
+piquant
+picaresque
+quixotic
+quixotic
+|
+banal everyday          
+quotidian
+baneful
+atonement
+assiduous
+quotidian
+|
+mob crowd the lower classes of populace     
+descry
+deprecate
+rabble
+denigrate
+rabble
+|
+person who tells anecdotes        
+raconteur
+crass
+convoke
+contiguous
+raconteur
+|
+low vulgar base tawdry        
+disproof
+raffish
+diffidence
+disencumber
+raffish
+|
+to be divided or subdivided to branch out    
+ramify
+dud
+dissolution
+disparate
+ramify
+|
+feeling bitterness spitefulness         
+pundit
+rancorous
+prone
+prudish
+rancorous
+|
+use extravagant language         
+rant
+fetid
+facile
+extralegal
+rant
+|
+greedy (esp for money)        
+ingest
+ineptitude
+rapacious
+indulge
+rapacious
+|
+to make thin to make less dense to purify or refine 
+rarefy
+falter
+extant
+expiation
+rarefy
+|
+act with excessive enthusiasm      
+impede
+hypocrisy
+hoodwink
+rave
+rave
+|
+opposing progress          
+reactionary
+incipient
+implicate
+impervious
+reactionary
+|
+snub           
+incredulous
+rebuff
+implosion
+inchoate
+rebuff
+|
+disobedient           
+recalcitrant
+blithe
+belabor
+barrage
+recalcitrant
+|
+take back as being FALSE give up     
+ostensible
+ominous
+recant
+occluded
+recant
+|
+cast or fashion anew        
+recast
+forgery
+flout
+fledged
+recast
+|
+relapse into antisocial or criminal behavior      
+effrontery
+recidivism
+drowsiness
+ecumenical
+recidivism
+|
+granting of privileges in return for similar     
+reciprocity
+mettlesome
+malleable
+maladroit
+reciprocity
+|
+a number of performance of music      
+malapropism
+recitals
+limn
+luminary
+recitals
+|
+person who lives alone and avoids people     
+recluse
+rancorous
+quaff
+purvey
+recluse
+|
+make payment to reward punish       
+coeval
+coalescing
+recompense
+clinch
+recompense
+|
+settle a quarrel restore peace       
+reconcile
+propagation
+prim
+presage
+reconcile
+|
+little known abstruse         
+impromptu
+recondite
+impassive
+impiety
+recondite
+|
+cowardice a cowardly giving up       
+recreancy
+nebulous
+misanthrope
+mettle
+recreancy
+|
+become strong after illness loss exhaustion      
+imperious
+recuperate
+hypocrisy
+impair
+recuperate
+|
+get back by payment compensate       
+redeem
+infuriate
+incursion
+incongruous
+redeem
+|
+formidable causing fear         
+obdurate
+nonchalant
+redoubtable
+negligent
+redoubtable
+|
+make or become pure cultural       
+refine
+hirsute
+gust
+grievous
+refine
+|
+stubborn unmanageable untractable         
+inscrutable
+refractory
+indigence
+infuriate
+refractory
+|
+shining brilliant          
+refulgent
+centurion
+burnish
+brittle
+refulgent
+|
+to delight or entertain to feast      
+plead
+picaresque
+petrify
+regale
+regale
+|
+crime of killing a king       
+regicide
+homiletics
+harbinger
+gust
+regicide
+|
+say or do again several times      
+contemn
+consternation
+reiterate
+connoisseur
+reiterate
+|
+becoming young in nature or appearance      
+rejuvenation
+broach
+bigot
+benign
+rejuvenation
+|
+fall back again         
+partisan
+relapse
+opaqueness
+palpability
+relapse
+|
+to protest object         
+remonstrate
+fringe
+forbear
+foil
+remonstrate
+|
+deliver provide represent         
+foppish
+render
+finicky
+flout
+render
+|
+restore smth to better condition       
+renovate
+mellifluous
+macabre
+lull
+renovate
+|
+celebrated famous          
+recidivism
+reactionary
+renowned
+rancorous
+renowned
+|
+meal           
+repast
+cogent
+chisel
+chary
+repast
+|
+refuse to accept/cause dislike      
+constrict
+conceit
+commodious
+repel
+repel
+|
+at be discontented with        
+repine
+implicit
+impassive
+imbroglio
+repine
+|
+scold upbraid          
+molt
+reproach
+maverick
+mince
+reproach
+|
+person hardened in sin one devoid of decency    
+reprobate
+piquant
+personable
+perish
+reprobate
+|
+disown refuse to accept or pay      
+irrevocable
+irascible
+repudiate
+invective
+repudiate
+|
+causing a feeling of disgust       
+repulsive
+harbinger
+gouge
+glut
+repulsive
+|
+repay give in return        
+dolt
+requite
+disdain
+dissolution
+requite
+|
+repeal/annul/cancel         
+rescind
+resuscitation
+renovate
+reiterate
+rescind
+|
+unresisting submissive          
+deferential
+resigned
+crease
+dawdler
+resigned
+|
+quality of quickly recovering the original shape     
+resilience
+ruffian
+rescind
+reproach
+resilience
+|
+to frequently visit         
+relapse
+refulgent
+resort
+recuperate
+resort
+|
+refusing to move reluctant to be controlled     
+restive
+expiation
+espouse
+eradicate
+restive
+|
+coming back to consciousness        
+profligacy
+resuscitation
+precursory
+pristine
+resuscitation
+|
+check hinder          
+retard
+impecunious
+husk
+hone
+retard
+|
+reserved untalkative silent taciturn        
+contentious
+reticent
+conceit
+conspicuous
+reticent
+|
+have deep respect for        
+revere
+gush
+gloat
+germane
+revere
+|
+feeling or showing deep respect     
+cursory
+crush
+reverent
+cravat
+reverent
+|
+puzzling person or thing      
+riddle
+reciprocity
+rabble
+quiescence
+riddle
+|
+split crack dissension         
+argot
+rift
+amortize
+approbation
+rift
+|
+fix take up secure metal pin      
+rivet
+poncho
+pivotal
+pious
+rivet
+|
+call calling of names        
+barren
+attune
+asterisk
+roll
+roll
+|
+rich and deep plump and round      
+rotund
+profane
+preen
+precepts
+rotund
+|
+violent cruel man         
+euthanasia
+eschew
+ruffian
+equivocal
+ruffian
+|
+make rough        
+rumple
+efficacy
+dud
+drawl
+rumple
+|
+having sound judgment perceptive wise like a sage    
+articulate
+sagacious
+antidote
+arabesque
+sagacious
+|
+obscene           
+salacious
+contentious
+condense
+conceal
+salacious
+|
+healthful           
+plead
+salubrious
+petrous
+pith
+salubrious
+|
+remedial wholesome causing improvement        
+salutary
+impecunious
+husk
+hone
+salutary
+|
+self-righteousness hypocritical with FALSE piety       
+rant
+rabble
+sanctimony
+quiescence
+sanctimony
+|
+approval (by authority) penalty        
+sanction
+predominate
+pliant
+plaque
+sanction
+|
+cheerful confident optimistic         
+manacle
+lugubrious
+loll
+sanguine
+sanguine
+|
+health of mind soundness of judgement      
+sanity
+contentious
+condense
+conceal
+sanity
+|
+long strip worn round the waist    
+fidget
+sash
+facile
+ferret
+sash
+|
+satisfy fully          
+satiate
+gloat
+frugal
+frantic
+satiate
+|
+gloomy dark sullen morose        
+alleviate
+agog
+saturnine
+adulteration
+saturnine
+|
+person of great learning        
+savant
+commemorate
+clot
+churl
+savant
+|
+taste flavor smth         
+aversion
+savor
+aseptic
+audacious
+savor
+|
+tiny bits of wood        
+sawdust
+earthenware
+dolt
+divergence
+sawdust
+|
+sheath for the blade        
+cordon
+scabbard
+connotation
+contrite
+scabbard
+|
+smell (esp pleasant)         
+scent
+epithet
+engender
+endearing
+scent
+|
+become discolored/dry up/go at high speed    
+entreat
+enmity
+scorch
+engender
+scorch
+|
+write hastily          
+scribble
+console
+commuter
+colander
+scribble
+|
+mean contemptible          
+penchant
+scurvy
+overweening
+partisan
+scurvy
+|
+material (not spiritual) living outside monasteries      
+secular
+dwarf
+doggerel
+dissolution
+secular
+|
+persevering           
+palatial
+sedulous
+obtuse
+ostensible
+sedulous
+|
+like a seed constituting a source originative     
+seminal
+reticent
+repast
+relapse
+seminal
+|
+short and pithy full of maxims/proverbs      
+predilection
+portent
+sententious
+plummet
+sententious
+|
+succession connected line of        
+sequence
+animosity
+agog
+adulteration
+sequence
+|
+make hard and without feeling     
+rabble
+sere
+punctilious
+quell
+sere
+|
+reproving a person for his faults    
+sermon
+pundit
+propitious
+prolix
+sermon
+|
+having a toothed edge        
+preponderance
+plumb
+plead
+serrated
+serrated
+|
+having a toothed edge        
+serration
+aver
+assail
+ascetic
+serration
+|
+like a slave lacking independence       
+pith
+pine
+servile
+philistine
+servile
+|
+break off        
+sever
+ebullience
+dormant
+divestiture
+sever
+|
+severing           
+figurehead
+severance
+fallacious
+fervid
+severance
+|
+little depth not earnest        
+shallow
+recast
+quixotic
+quell
+shallow
+|
+piece of broken earthenware        
+gaucherie
+shard
+forswear
+fulsome
+shard
+|
+cover for the blade of a weapon or a tool  
+sheath
+dissent
+discourse
+disallow
+sheath
+|
+astute showing sound judgement        
+gist
+garner
+shrewd
+fulmination
+shrewd
+|
+sharp piercing          
+shrill
+fixate
+ferment
+feckless
+shrill
+|
+keep away from avoid        
+coeval
+chicanery
+centurion
+shun
+shun
+|
+send from one track to another lay aside evade discussion  
+shunt
+dilate
+derision
+deplete
+shunt
+|
+step to one side        
+ineptitude
+sidestep
+inclined
+indolence
+sidestep
+|
+(give a) silly/self-conscious smile      
+simper
+introspection
+inimitable
+infuriate
+simper
+|
+winding undulating serpentine         
+penchant
+paucity
+sinuous
+parenthesis
+sinuous
+|
+small boat          
+skiff
+lull
+levity
+latent
+skiff
+|
+short piece of humorous writing       
+palpitate
+skit
+odious
+overhaul
+skit
+|
+sluggish dull not tight        
+slack
+probity
+precepts
+poignant
+slack
+|
+to assuage to satisfy allay       
+astringent
+slake
+arabesque
+aseptic
+slake
+|
+king of blue-grey stone propose criticize      
+slate
+restive
+render
+regicide
+slate
+|
+lazy slow-moving person         
+disparate
+disheveled
+sluggard
+discredit
+sluggard
+|
+join sounds/words (indistinct)       
+slur
+fecund
+extinguish
+exscind
+slur
+|
+burn slowly without flame      
+collusion
+smolder
+chisel
+coddle
+smolder
+|
+trap         
+snare
+boisterous
+belligerent
+bask
+snare
+|
+treat with contempt       
+ostentation
+snub
+oblivious
+officious
+snub
+|
+rise fly high         
+soar
+reactionary
+quibble
+quaff
+soar
+|
+self-controlled           
+chastisement
+caustic
+sober
+cantankerous
+sober
+|
+quality or condition of being sober      
+sobriety
+irrevocable
+intransigent
+insurrection
+sobriety
+|
+soaked saturated
+amalgamate
+sodden
+acclaimed
+ail
+sodden
+|
+heavy with water
+soggy
+bask
+audacious
+astringent
+soggy
+|
+of the power of forming a solution 
+ingest
+indigence
+inculcate
+solvent
+solvent
+|
+of the body 
+somatic
+probity
+precepts
+poignant
+somatic
+|
+black powder in smoke        
+consume
+console
+soot
+congeal
+soot
+|
+complex subtle refined         
+sophisticated
+forgery
+flout
+fledged
+sophisticated
+|
+fallacious reasoning faulty logic        
+deposition
+sophistry
+curtail
+delineate
+sophistry
+|
+self-assured though immature affected bombastic overblown      
+sophomoric
+insensible
+indulge
+indigence
+sophomoric
+|
+producing sleep        
+forestall
+soporific
+flaunting
+foment
+soporific
+|
+wretched comfortless contemptible         
+sordid
+multifarious
+mettle
+mendicant
+sordid
+|
+weapon with a metal point on a long shaft   
+recreancy
+recitals
+spear
+recalcitrant
+spear
+|
+illogical of questionable truth or merit      
+specious
+apprise
+ambidextrous
+allegiance
+specious
+|
+bad-tempered irritable          
+decry
+credulous
+crass
+splenetic
+splenetic
+|
+join (two ends)         
+splice
+congeal
+colander
+coerce
+splice
+|
+porous rubber for washing live at once expense    
+endearing
+sponge
+eddy
+embellish
+sponge
+|
+FALSE counterfeit          
+spurious
+prudence
+profundity
+prodigal
+spurious
+|
+have nothing to do reject or refuse     
+patron
+paradigm
+spurn
+palatial
+spurn
+|
+foul filthy          
+squalid
+cognizant
+clamor
+chastisement
+squalid
+|
+spend wastefully          
+inane
+squander
+imperative
+importune
+squander
+|
+crouch/settle without permission       
+squat
+inclined
+importune
+impiety
+squat
+|
+to stop the flow of a fluid     
+belligerent
+stanch
+augury
+barrage
+stanch
+|
+rising or falling sharply        
+steeply
+inured
+inscrutable
+ingenuous
+steeply
+|
+extremely loud and powerful        
+innocuous
+infuse
+stentorian
+ineluctable
+stentorian
+|
+person who insists on importance of smth     
+stickler
+esoteric
+enzyme
+entangle
+stickler
+|
+mark of shame or disgrace       
+burnish
+stigma
+bigot
+brazen
+stigma
+|
+describe smb scornfully         
+stigmatize
+paradigm
+opaqueness
+odium
+stigmatize
+|
+smth sharp          
+harbinger
+sting
+gnaw
+gullible
+sting
+|
+spending using unwillingly         
+stingy
+prone
+prevaricate
+preponderance
+stingy
+|
+to be thrifty to set limits      
+ostensible
+ominous
+stint
+occluded
+stint
+|
+paint with dots       
+stipple
+knit
+inveigh
+intrepid
+stipple
+|
+state or put forward as a necessary condition    
+incorrigibility
+stipulate
+implicit
+incessant
+stipulate
+|
+showing no emotion impassive        
+stolid
+plummet
+pique
+pied
+stolid
+|
+wander lose one's way        
+paradigm
+opaqueness
+odium
+stray
+stray
+|
+long thin move very fast       
+streak
+curmudgeon
+counterfeit
+cornucopia
+streak
+|
+striped grooved or banded        
+ostensible
+ominous
+striated
+occluded
+striated
+|
+walk with long steps        
+stride
+reproach
+refine
+recondite
+stride
+|
+a supporting bar         
+muffler
+strut
+mendicant
+miser
+strut
+|
+hence dark gloomy         
+stygian
+apt
+ameliorate
+aloof
+stygian
+|
+to hinder obstruct or block       
+irrevocable
+stymie
+interdict
+invincible
+stymie
+|
+overcome bring under control        
+subdue
+covetous
+contumacious
+consummate
+subdue
+|
+extreme astounding          
+nostrum
+nexus
+sublime
+nadir
+sublime
+|
+put under water liquid sink out of sight    
+submerge
+limp
+lachrymose
+jibe
+submerge
+|
+induce by bribery or smth to commit perjury    
+dissemble
+disconcert
+diffidence
+suborn
+suborn
+|
+written order requiring a person to appear in a low court 
+subpoena
+asperity
+apropos
+apotheosis
+subpoena
+|
+giving facts to support (statement)     
+pivotal
+substantiation
+personable
+pinch
+substantiation
+|
+include under a rule        
+subsume
+inimitable
+indistinct
+incursion
+subsume
+|
+assistance relief in time of distress      
+raconteur
+quiescent
+succor
+qualm
+succor
+|
+be enough          
+suffice
+involute
+insularity
+inscrutable
+suffice
+|
+cause or have difficulty in breathing    
+petrified
+suffocate
+penitent
+permeate
+suffocate
+|
+to be stained or discredited       
+sullied
+inchoate
+implacable
+imperturbable
+sullied
+|
+briefly without delay         
+divulge
+summarily
+discredit
+dissemble
+summarily
+|
+magnificent           
+sumptuous
+pugnacious
+propagation
+profundity
+sumptuous
+|
+various miscellaneous separate         
+disdain
+discountenance
+sundry
+dilate
+sundry
+|
+disdainful characterized by haughty scorn       
+supercilious
+quiescence
+puissance
+prudish
+supercilious
+|
+more then is needed or wanted      
+emote
+superfluous
+earthenware
+elaborate
+superfluous
+|
+put smth on the top       
+superimpose
+exscind
+evasive
+esoteric
+superimpose
+|
+take the place of        
+odium
+supersede
+nibble
+obstreperous
+supersede
+|
+lying on the back slow to act passive    
+supine
+poncho
+pivotal
+pious
+supine
+|
+asking humbly beseeching         
+embellish
+elaborate
+suppliant
+effete
+suppliant
+|
+make a humble petition to       
+supplicate
+ineluctable
+incorrigibility
+incipient
+supplicate
+|
+prevent from being known put an end to    
+grovel
+suppress
+garrulous
+gossamer
+suppress
+|
+additional load/charge        
+surcharge
+rant
+quail
+pusillanimous
+surcharge
+|
+satiate feed to fulness or to excess     
+ford
+fleet
+flak
+surfeit
+surfeit
+|
+sensitiveness           
+susceptibility
+droll
+disproof
+disingenuous
+susceptibility
+|
+change direction suddenly       
+countenance
+cordon
+swerve
+conundrum
+swerve
+|
+person who flatter to the rich and powerful    
+sycophant
+derision
+decry
+dawdler
+sycophant
+|
+summary or outline         
+elicit
+synopsis
+dupe
+effete
+synopsis
+|
+untalkative silent          
+taciturn
+recant
+quirk
+quandary
+taciturn
+|
+form of a frog when it leaves the egg 
+disconcert
+tadpole
+derision
+diaphanous
+tadpole
+|
+claw of a bird of prey      
+talon
+aseptic
+approbation
+apostate
+talon
+|
+tap or drive down by repeated light blows    
+cordial
+contumacious
+tamp
+consummate
+tamp
+|
+interfere with          
+tamper
+bewilder
+baneful
+aversion
+tamper
+|
+suddenly changeable          
+mettle
+malinger
+machination
+tangential
+tangential
+|
+lost brightness          
+tarnished
+garment
+forswear
+ford
+tarnished
+|
+bunch of threads       
+censure
+tassel
+brittle
+cant
+tassel
+|
+contemptuous reproach hurtful remark        
+taunt
+impede
+hypocrisy
+hoodwink
+taunt
+|
+tightly stretched          
+cogitate
+coda
+taut
+clot
+taut
+|
+a repetition a redundancy        
+tautology
+chastened
+cadge
+brook
+tautology
+|
+cheap gaudy showy tacky        
+dexterity
+tawdry
+demur
+desiccant
+tawdry
+|
+oppose to alcohol         
+teetotal
+restive
+render
+regicide
+teetotal
+|
+boldness brashness intrepidness         
+maul
+temerity
+lugubrious
+malign
+temerity
+|
+abstinence from alcohol self-control moderation       
+temperance
+imminent
+hoodwink
+hoi
+temperance
+|
+showing self-control          
+prodigal
+prim
+temperate
+presage
+temperate
+|
+firmness persistency adhesiveness tending to hang on     
+tenacity
+rivet
+repudiate
+repast
+tenacity
+|
+insubstantial flimsy weak         
+hoax
+tenuous
+guile
+heinous
+tenuous
+|
+lukewarm         
+tepid
+dissemble
+disconcert
+diffidence
+tepid
+|
+brief and to the point       
+flamboyant
+terse
+felicitous
+figurehead
+terse
+|
+witness/evidence         
+testiness
+dud
+dissolution
+disparate
+testiness
+|
+care economy thriving prosperous        
+centurion
+castigate
+thrift
+calumny
+thrift
+|
+obstruct/frustrate         
+thwart
+placate
+petrify
+personable
+thwart
+|
+shy easily frightened         
+reiterate
+timid
+recalcitrant
+redeem
+timid
+|
+fearful timid afraid         
+timorous
+manacle
+lugubrious
+loll
+timorous
+|
+obsequious flatterer        
+pious
+perpetrate
+peripatetic
+toady
+toady
+|
+smth giving strength or energy       
+tonic
+feud
+falter
+extrovert
+tonic
+|
+be unsteady and overturn        
+assiduous
+ascribe
+topple
+arrogance
+topple
+|
+severe pain or suffering        
+torment
+ascetic
+apprehensive
+apartheid
+torment
+|
+sleeping sluggish lethargic dormant        
+mischievous
+torpid
+manacle
+meticulous
+torpid
+|
+twisting force causing rotation      
+torque
+fledged
+fetid
+ferment
+torque
+|
+devious/not straightforward        
+arrogance
+tortuous
+animosity
+apt
+tortuous
+|
+person who worries others to buy smth to use his service 
+tout
+ruffian
+rescind
+reproach
+tout
+|
+easily controlled or guided        
+frantic
+forswear
+tractable
+ford
+tractable
+|
+break go beyond (a limit)       
+transgress
+droll
+disproof
+disingenuous
+transgress
+|
+temporary fleeting          
+cloture
+caustic
+cantankerous
+transient
+transient
+|
+brief           
+transitory
+counterfeit
+contentious
+constrain
+transitory
+|
+parody/imitation         
+ostensible
+travesty
+obfuscate
+odor
+travesty
+|
+forceful effective vigorous extremely perceptive incisive      
+trenchant
+discomfit
+descry
+deprecate
+trenchant
+|
+alarm excited state of mind       
+nibble
+nascent
+trepidation
+muffler
+trepidation
+|
+flow in drops       
+trickle
+roll
+repulsive
+repel
+trickle
+|
+unimportant           
+exoneration
+trifling
+equipoise
+evasive
+trifling
+|
+not new          
+trite
+bask
+audacious
+astringent
+trite
+|
+(agreement) stop of fighting for a time   
+repine
+truce
+recondite
+relapse
+truce
+|
+aggressiveness ferocity          
+truculence
+complaisance
+coalescing
+clinch
+truculence
+|
+walk heavily          
+levee
+lassitude
+trudge
+knit
+trudge
+|
+muddy having the sediment stirred up      
+turbid
+preponderance
+plumb
+plead
+turbid
+|
+being uncontrolled violent         
+cower
+turbulence
+contentious
+correlate
+turbulence
+|
+excessively ornate swollen or bloated       
+turgid
+cumbersome
+countenance
+cordon
+turgid
+|
+trouble disturbance          
+covert
+turmoil
+consummate
+cornucopia
+turmoil
+|
